@@ -921,6 +921,13 @@
 		<video>./cps1/snap/ffight.mp4</video>
 	</game>
 	<game>
+		<path>./cps2/ffightaec2k.zip</path>
+		<name>파이널 파이트 30주년 기념판 (한글 패치판)</name>
+		<image>./cps1/boxart/ffight.png</image>
+		<thumbnail>../thumbnail/none.png</thumbnail>
+		<video>./cps1/snap/ffight.mp4</video>
+	</game>
+	<game>
 		<path>./cps1/forgottn.zip</path>
 		<name>포가튼 월드 (세계판, 새것)</name>
 		<image>./cps1/boxart/forgottn.png</image>
@@ -1687,6 +1694,13 @@
 	<game>
 		<path>./cps2/ddsomav4.zip</path>
 		<name>던전스 & 드래곤스 - 미스타라에 드리운 그림자 (960619 아시아판, 1 vs 4 핵)</name>
+		<image>./cps2/boxart/ddsom.png</image>
+		<thumbnail>../thumbnail/none.png</thumbnail>
+		<video>./cps2/snap/ddsom.mp4</video>
+	</game>
+	<game>
+		<path>./cps2/ddsomk.zip</path>
+		<name>던전스 & 드래곤스 - 미스타라에 드리운 그림자 (한글 패치판)</name>
 		<image>./cps2/boxart/ddsom.png</image>
 		<thumbnail>../thumbnail/none.png</thumbnail>
 		<video>./cps2/snap/ddsom.mp4</video>
