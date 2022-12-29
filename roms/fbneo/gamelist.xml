@@ -8285,6 +8285,15 @@
 		<image>./neogeo_mvs/boxart/neobombe.png</image>
 		<thumbnail>../thumbnail/none.png</thumbnail>
 		<video>./neogeo_mvs/snap/neobombe.mp4</video>
+                <developer>허드슨</developer>
+                <publisher>허드슨</publisher>
+                <genre>퍼즐 / 미로</genre>
+                <releasedate>1997</releasedate>
+                <players>2</players>
+                <desc>가정용 게임의 인기작품 "봄버맨" 을 대폭적으로 변경하여 네오지오 MVS 시스템으로 발매한 것이 이 '네오 봄버맨'이다.
+각자 성격이 다른 9명의 봄버맨 캐릭터를 선택할 수 있다.
+또, 폭탄으로 적을 섬멸해 가는 기초 규칙은 변하지 않지만 지금까지 봄버맨 시리즈에는 없었던 탈것을 사용하여 공격하는 새로운 시스템이 사용되고 있다.
+게임 시작시에 전 5스테이지인 "노멀 모드"와 CPU 를 상대로 승자 진출 방식의 "배틀 모드" 를 선택할 수 있다.</desc>
 	</game>
 	<game>
 		<path>./neogeo_mvs/neocup98.zip</path>
