@@ -13525,6 +13525,7 @@
 		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).zip</path>
 		<name>동키콩 컨트리 2 - 디디스 콩 퀘스트 (개정판 1)</name>
 		<image>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-image.png</image>
+		<video>./snap/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).mp4</video>
                 <marquee>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-marquee.png</marquee>
                 <thumbnail>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-thumb.png</thumbnail>
                 <bezel>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-bezel.png</bezel>
@@ -13648,7 +13649,7 @@
 		<path>./Super Bomberman 4 (J).zip</path>
 		<name>슈퍼 봄버맨 4 (일본판)</name>
 		<image>./snap/Super Bomberman 4 (J).png</image>
-		<video>./snap/Super Bomberman 4 (J).mp4</video>
+		<video>./videos/Super Bomberman 4 (J)-video.mp4</video>
                 <marquee>./images/Super Bomberman 4 (J)-marquee.png</marquee>
                 <thumbnail>./images/Super Bomberman 4 (J)-thumb.png</thumbnail>
                 <boxback>./images/Super Bomberman 4 (J)-boxback.png</boxback>
