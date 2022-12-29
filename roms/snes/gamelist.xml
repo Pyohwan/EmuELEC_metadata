@@ -1,17 +1,25 @@
 <?xml version="1.0"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<game>
+	<game id="2149">
 		<path>./sfc_kor_patched/Super Donkey Kong (Korea) (Rev 1).zip</path>
 		<name>슈퍼 동키 콩 (개정판 1), 한국어 패치</name>
 		<image>./sfc_kor_patched/boxart/Super Donkey Kong.png</image>
 		<video>./sfc_kor_patched/snap/Super Donkey Kong.mp4</video>
-		<marquee>./marquee/Donkey Kong Country (USA) (Rev 2).png</marquee>
-		<developer>레어웨어</developer>
-		<publisher>레어웨어</publisher>
-		<genre>플랫폼</genre>
-		<releasedate>1994</releasedate>
-		<players>2</players>
-		<desc />
+                <marquee>./images/Super Donkey Kong (Korea) (Rev 1)-marquee.png</marquee>
+                <thumbnail>./images/Super Donkey Kong (Korea) (Rev 1)-thumb.png</thumbnail>
+                <bezel>./images/Super Donkey Kong (Korea) (Rev 1)-bezel.png</bezel>
+                <boxback>./images/Super Donkey Kong (Korea) (Rev 1)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19941125T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform / Run Jump</genre>
+                <family>Donkey Kong</family>
+                <players>2</players>
+                <md5>38c4e38a1a9886b9e6108c0d6e1ec1c2</md5>
+                <lang>kr</lang>
+                <region>kr</region>
+                <scrap name="ScreenScraper" date="20221229T230938" />
 	</game>
 	<game>
 		<path>./2020 Super Baseball (USA).zip</path>
@@ -13427,208 +13435,233 @@
 		<publisher>알테리어 더블</publisher>
 		<genre>격투</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20210108T011334</lastplayed>
-		<gametime>26</gametime>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./sfc_kor_patched/Super Donkey Kong (Korea) (Rev 1).zip</path>
-		<name>슈퍼 동키 콩 (개정판 1), 한국어 패치</name>
-		<image>./sfc_kor_patched/boxart/Super Donkey Kong.png</image>
-		<video>./sfc_kor_patched/snap/Super Donkey Kong.mp4</video>
-		<marquee>./marquee/Donkey Kong Country (USA) (Rev 2).png</marquee>
-		<releasedate>1994</releasedate>
-		<developer>레어웨어</developer>
-		<publisher>레어웨어</publisher>
-		<genre>플랫폼</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221224T190802</lastplayed>
-		<gametime>58</gametime>
-		<lang>kr</lang>
-		<region>kr</region>
-	</game>
-	<game>
+	<game id="2153">
 		<path>./sfc_kor_patched/Super Mario Kart (Korea).zip</path>
 		<name>슈퍼 마리오 카트, 한국어 패치</name>
 		<image>./sfc_kor_patched/boxart/Super Mario Kart.png</image>
 		<video>./sfc_kor_patched/snap/Super Mario Kart.mp4</video>
-		<marquee>./marquee/Super Mario Kart (USA).png</marquee>
-		<releasedate>1992</releasedate>
-		<developer>닌텐도</developer>
-		<publisher>닌텐도</publisher>
-		<genre>레이싱</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20221218T113908</lastplayed>
-		<gametime>22</gametime>
-		<lang>kr</lang>
-		<region>kr</region>
+                <marquee>./images/Super Mario Kart (Korea)-marquee.png</marquee>
+                <thumbnail>./images/Super Mario Kart (Korea)-thumb.png</thumbnail>
+                <bezel>./images/Super Mario Kart (Korea)-bezel.png</bezel>
+                <boxback>./images/Super Mario Kart (Korea)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19920901T000000</releasedate>
+                <developer>Nintendo</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Race, Driving / Race 3rd Pers. view</genre>
+                <family>Mario Kart</family>
+                <players>2</players>
+                <md5>ea116de516395d48f30048aa8621f522</md5>
+                <lang>kr</lang>
+                <region>kr</region>
+                <scrap name="ScreenScraper" date="20221229T230940" />
 	</game>
-	<game>
+	<game id="2163">
 		<path>./sfc_kor_patched/Super Mario - Yossy Island (Korea) (Rev 2).zip</path>
 		<name>슈퍼 마리오 - 요시 아일랜드 (개정판 2), 한국어 패치</name>
 		<image>./sfc_kor_patched/boxart/Super Mario - Yossy Island.png</image>
 		<video>./sfc_kor_patched/snap/Super Mario - Yossy Island.mp4</video>
-		<marquee>./marquee/Super Mario World 2 - Yoshi's Island (USA) (Rev 1).png</marquee>
-		<releasedate>1995</releasedate>
-		<developer>닌텐도</developer>
-		<publisher>닌텐도</publisher>
-		<genre>플랫폼</genre>
-		<players>1</players>
-		<playcount>1</playcount>
-		<lastplayed>20221218T153513</lastplayed>
-		<gametime>392</gametime>
-		<lang>kr</lang>
-		<region>kr</region>
+                <marquee>./images/Super Mario - Yossy Island (Korea) (Rev 2)-marquee.png</marquee>
+                <thumbnail>./images/Super Mario - Yossy Island (Korea) (Rev 2)-thumb.png</thumbnail>
+                <bezel>./images/Super Mario - Yossy Island (Korea) (Rev 2)-bezel.png</bezel>
+                <boxback>./images/Super Mario - Yossy Island (Korea) (Rev 2)-boxback.png</boxback>
+                <rating>0.95</rating>
+                <releasedate>19951004T000000</releasedate>
+                <developer>Nintendo</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <family>Super Mario Bros</family>
+                <players>1</players>
+                <md5>7265b015012b5d1bae7183fbd885a427</md5>
+                <lang>kr</lang>
+                <region>kr</region>
+                <scrap name="ScreenScraper" date="20221229T230946" />
 	</game>
-	<game>
+	<game id="2181">
 		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip</path>
 		<name>동키콩 컨트리 3 - 딕시스 더블 트러블</name>
 		<image>./snap/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).png</image>
 		<video>./snap/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).mp4</video>
-		<marquee>./marquee/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).png</marquee>
-		<releasedate>1996</releasedate>
-		<developer>레어웨어</developer>
-		<publisher>레어웨어</publisher>
-		<genre>플랫폼</genre>
-		<players>2</players>
-		<lang>fr,en</lang>
-		<region>eu</region>
+                <marquee>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-marquee.png</marquee>
+                <thumbnail>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-thumb.png</thumbnail>
+                <bezel>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-bezel.png</bezel>
+                <boxback>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-boxback.png</boxback>
+                <rating>0.9</rating>
+                <releasedate>19961219T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform / Run Jump</genre>
+                <family>Donkey Kong</family>
+                <players>2</players>
+                <md5>120abf304f0c40fe059f6a192ed4f947</md5>
+                <lang>fr,en</lang>
+                <region>eu</region>
+                <scrap name="ScreenScraper" date="20221229T230953" />
 	</game>
-	<game>
+	<game id="65556">
 		<path>./Super Mario All-Stars + Super Mario World (USA).zip</path>
 		<name>슈퍼 마리오 올스타즈 + 슈퍼 마리오 월드</name>
 		<image>./snap/Super Mario All-Stars + Super Mario World (USA).png</image>
 		<video>./snap/Super Mario All-Stars + Super Mario World (USA).mp4</video>
-		<marquee>./marquee/Super Mario All-Stars + Super Mario World (USA).png</marquee>
-		<releasedate>1994</releasedate>
-		<developer>닌텐도</developer>
-		<publisher>닌텐도</publisher>
-		<genre>플랫폼</genre>
-		<players>2</players>
-		<playcount>8</playcount>
-		<lastplayed>20221219T214233</lastplayed>
-		<gametime>6031</gametime>
-		<lang>en</lang>
-		<region>us</region>
+                <marquee>./images/Super Mario All-Stars + Super Mario World (USA)-marquee.png</marquee>
+                <thumbnail>./images/Super Mario All-Stars + Super Mario World (USA)-thumb.png</thumbnail>
+                <bezel>./images/Super Mario All-Stars + Super Mario World (USA)-bezel.png</bezel>
+                <boxback>./images/Super Mario All-Stars + Super Mario World (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19941201T000000</releasedate>
+                <developer>Nintendo</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform / Run Jump Scrolling</genre>
+                <players>2</players>
+                <md5>7ecaf3e2e021c8a836041c85886f4594</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20221229T230954" />
 	</game>
-	<game>
+	<game id="2169">
 		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).zip</path>
 		<name>동키콩 컨트리 2 - 디디스 콩 퀘스트 (개정판 1)</name>
-		<image>./snap/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).png</image>
-		<video>./snap/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).mp4</video>
-		<marquee>./marquee/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).png</marquee>
-		<releasedate>1995</releasedate>
-		<developer>레어웨어</developer>
-		<publisher>레어웨어</publisher>
-		<genre>플랫폼</genre>
-		<players>2</players>
-		<lang>fr,en</lang>
-		<region>eu</region>
+		<image>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-image.png</image>
+                <marquee>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-marquee.png</marquee>
+                <thumbnail>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-thumb.png</thumbnail>
+                <bezel>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-bezel.png</bezel>
+                <boxback>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-boxback.png</boxback>
+                <rating>0.95</rating>
+                <releasedate>19951114T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform / Run Jump</genre>
+                <family>Donkey Kong</family>
+                <players>2</players>
+                <md5>d323e6bb4ccc85fd7b416f58350bc1a2</md5>
+                <lang>fr,en</lang>
+                <region>eu</region>
+                <scrap name="ScreenScraper" date="20221229T230957" />
 	</game>
-	<game>
+	<game id="2189">
 		<path>./Lion King, The (USA).zip</path>
 		<name>라이온 킹</name>
 		<image>./snes/boxart/Lion King, The.png</image>
 		<video>./snap/Lion King, The (USA).mp4</video>
-		<marquee>./marquee/Lion King, The (USA).png</marquee>
-		<releasedate>1994</releasedate>
-		<developer>웨스트우드</developer>
-		<publisher>웨스트우드</publisher>
-		<genre>플랫폼</genre>
-		<players>1</players>
-		<playcount>3</playcount>
-		<lastplayed>20221225T155030</lastplayed>
-		<gametime>59</gametime>
-		<lang>en</lang>
-		<region>us</region>
+                <marquee>./images/Lion King, The (USA)-marquee.png</marquee>
+                <thumbnail>./images/Lion King, The (USA)-thumb.png</thumbnail>
+                <bezel>./images/Lion King, The (USA)-bezel.png</bezel>
+                <boxback>./images/Lion King, The (USA)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19941101T000000</releasedate>
+                <developer>Westwood Studios</developer>
+                <publisher>Virgin</publisher>
+                <genre>Action</genre>
+                <players>1</players>
+                <md5>6a5b2f9bde72f7d72db7dfe9afd0f47a</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20221229T230958" />
 	</game>
-	<game>
+	<game id="19017">
 		<path>./Contra III - The Alien Wars (USA).zip</path>
 		<name>혼투라 3 - 에일리언 워즈</name>
 		<image>./snap/Contra III - The Alien Wars (USA).png</image>
 		<video>./snap/Contra III - The Alien Wars (USA).mp4</video>
-		<marquee>./marquee/Contra III - The Alien Wars (USA).png</marquee>
-		<releasedate>1992</releasedate>
-		<developer>코나미</developer>
-		<publisher>코나미</publisher>
-		<genre>슈팅</genre>
-		<players>2</players>
-		<playcount>3</playcount>
-		<lastplayed>20221214T201359</lastplayed>
-		<gametime>172</gametime>
-		<lang>en</lang>
-		<region>us</region>
+                <marquee>./images/Contra III - The Alien Wars (USA)-marquee.png</marquee>
+                <thumbnail>./images/Contra III - The Alien Wars (USA)-thumb.png</thumbnail>
+                <bezel>./images/Contra III - The Alien Wars (USA)-bezel.png</bezel>
+                <boxback>./images/Contra III - The Alien Wars (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19920406T000000</releasedate>
+                <developer>Konami</developer>
+                <publisher>Konami</publisher>
+                <genre>Shoot'em up / Horizontal</genre>
+                <family>Contra</family>
+                <players>2</players>
+                <md5>ede82658dafdd6febbfbe6a9c9082500</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20221229T230950" />
 	</game>
-	<game>
+	<game id="2415">
 		<path>./sfc_kor_patched/King of Dragons, The (Korea).zip</path>
 		<name>더 킹 오브 드래곤스, 한국어 패치</name>
 		<image>./sfc_kor_patched/boxart/The King of Dragons.png</image>
 		<video>./sfc_kor_patched/snap/The King of Dragons.mp4</video>
-		<marquee>./marquee/King of Dragons (USA).png</marquee>
-		<releasedate>1994</releasedate>
-		<developer>캡콤</developer>
-		<publisher>캡콤</publisher>
-		<genre>격투</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20221226T214518</lastplayed>
-		<gametime>93</gametime>
-		<lang>kr</lang>
-		<region>kr</region>
+                <marquee>./images/King of Dragons, The (Korea)-marquee.png</marquee>
+                <thumbnail>./images/King of Dragons, The (Korea)-thumb.png</thumbnail>
+                <bezel>./images/King of Dragons, The (Korea)-bezel.png</bezel>
+                <boxback>./images/King of Dragons, The (Korea)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19940401T000000</releasedate>
+                <developer>Capcom</developer>
+                <publisher>Capcom</publisher>
+                <genre>Beat'em Up</genre>
+                <players>2</players>
+                <md5>a797b2d4ba19fd75b33d988465cde6ed</md5>
+                <lang>kr</lang>
+                <region>kr</region>
+                <scrap name="ScreenScraper" date="20221229T230944" />
 	</game>
-	<game>
+	<game id="2268">
 		<path>./sfc_kor_patched/Hoshi no Kirby 3 (Korea).zip</path>
 		<name>별의 커비 3, 한국어 패치</name>
 		<image>./sfc_kor_patched/boxart/Hoshi no Kirby 3.png</image>
 		<video>./sfc_kor_patched/snap/Hoshi no Kirby 3.mp4</video>
-		<marquee>./marquee/Kirby's Dream Land 3 (USA).png</marquee>
-		<releasedate>1997</releasedate>
-		<developer>할 연구소</developer>
-		<publisher>할 연구소</publisher>
-		<genre>플랫폼</genre>
-		<players>2</players>
-		<playcount>6</playcount>
-		<lastplayed>20221228T220130</lastplayed>
-		<gametime>10998</gametime>
-		<lang>kr</lang>
-		<region>kr</region>
+                <marquee>./images/Hoshi no Kirby 3 (Korea)-marquee.png</marquee>
+                <thumbnail>./images/Hoshi no Kirby 3 (Korea)-thumb.png</thumbnail>
+                <bezel>./images/Hoshi no Kirby 3 (Korea)-bezel.png</bezel>
+                <boxback>./images/Hoshi no Kirby 3 (Korea)-boxback.png</boxback>
+                <rating>0.85</rating>
+                <releasedate>19971127T000000</releasedate>
+                <developer>HAL Laboratory</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <family>Kirby</family>
+                <players>1</players>
+                <md5>c547ab2febd5b474311784e89e8adfbd</md5>
+                <lang>kr</lang>
+                <region>kr</region>
+                <scrap name="ScreenScraper" date="20221229T230942" />
 	</game>
-	<game>
+	<game id="2216">
 		<path>./Kirby Super Star (USA).zip</path>
 		<name>커비 슈퍼스타</name>
 		<image>./snap/Kirby Super Star (USA).png</image>
 		<video>./snap/Kirby Super Star (USA).mp4</video>
-		<marquee>./marquee/Kirby Super Star (USA).png</marquee>
-		<releasedate>1996</releasedate>
-		<developer>할 연구소</developer>
-		<publisher>할 연구소</publisher>
-		<genre>플랫폼</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20221228T203016</lastplayed>
-		<gametime>134</gametime>
-		<lang>en</lang>
-		<region>us</region>
+                <marquee>./images/Kirby Super Star (USA)-marquee.png</marquee>
+                <thumbnail>./images/Kirby Super Star (USA)-thumb.png</thumbnail>
+                <bezel>./images/Kirby Super Star (USA)-bezel.png</bezel>
+                <boxback>./images/Kirby Super Star (USA)-boxback.png</boxback>
+                <rating>0.95</rating>
+                <releasedate>19960920T000000</releasedate>
+                <developer>HAL Laboratory</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <family>Kirby</family>
+                <players>2</players>
+                <md5>cb76ea8ac989e71210c89102d91c6c57</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20221229T230948" />
 	</game>
-	<game>
+	<game id="2363">
 		<path>./Super Bomberman 4 (J).zip</path>
 		<name>슈퍼 봄버맨 4 (일본판)</name>
 		<image>./snap/Super Bomberman 4 (J).png</image>
 		<video>./snap/Super Bomberman 4 (J).mp4</video>
-		<marquee>./marquee/Super Bomberman 4 (J).png</marquee>
-		<releasedate>1996</releasedate>
-		<developer>허드슨</developer>
-		<publisher>허드슨</publisher>
-		<genre>퍼즐게임</genre>
-		<players>4</players>
-		<playcount>3</playcount>
-		<lastplayed>20221229T210409</lastplayed>
-		<gametime>1243</gametime>
-		<lang>jp</lang>
-		<region>jp</region>
+                <marquee>./images/Super Bomberman 4 (J)-marquee.png</marquee>
+                <thumbnail>./images/Super Bomberman 4 (J)-thumb.png</thumbnail>
+                <boxback>./images/Super Bomberman 4 (J)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19960426T000000</releasedate>
+                <developer>Hudson</developer>
+                <publisher>Hudson</publisher>
+                <genre>Action / Labyrinth</genre>
+                <family>Bomberman</family>
+                <players>5</players>
+                <md5>ad79ddfef6a85835349723588df65ed6</md5>
+                <lang>jp</lang>
+                <region>jp</region>
+                <scrap name="ScreenScraper" date="20221229T230935" />
 	</game>
 </gameList>
