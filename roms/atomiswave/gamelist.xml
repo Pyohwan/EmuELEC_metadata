@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<!--------------------------------------------------------
+		아토미스웨이브
+	---------------------------------------------------------->
+	<game>
+		<path>./anmlbskt.zip</path>
+		<name>허슬 공넣기 경쟁 (24 Jan 2005)</name>
+		<image>./boxart/anmlbskt.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/anmlbskt.mp4</video>
+	</game>
+	<game>
+		<path>./anmlbskta.zip</path>
+		<name>허슬 공넣기 경쟁 (19 Jan 2005)</name>
+		<image>./boxart/anmlbskt.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/anmlbskt.mp4</video>
+	</game>
+	<game>
+		<path>./basschal.zip</path>
+		<name>세가 배스 피싱 챌린지 버전 A</name>
+		<image>./boxart/basschal.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/basschal.mp4</video>
+	</game>
+	<game>
+		<path>./basschalo.zip</path>
+		<name>세가 배스 피싱 챌린지</name>
+		<image>./boxart/basschal.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/basschal.mp4</video>
+	</game>
+	<game>
+		<path>./blokpong.zip</path>
+		<name>블록 퐁 퐁</name>
+		<image>./boxart/blokpong.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/blokpong.mp4</video>
+	</game>
+	<game>
+		<path>./claychal.zip</path>
+		<name>세가 클레이 챌린지</name>
+		<image>./boxart/claychal.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/claychal.mp4</video>
+	</game>
+	<game>
+		<path>./demofist.zip</path>
+		<name>데몰리시 피스트</name>
+		<image>./boxart/demofist.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/demofist.mp4</video>
+	</game>
+	<game>
+		<path>./dirtypig.zip</path>
+		<name>더티 피그스킨 풋볼</name>
+		<image>./boxart/dirtypig.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/dirtypig.mp4</video>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>돌핀 블루</name>
+		<image>./boxart/dolphin.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/dolphin.mp4</video>
+	</game>
+	<game>
+		<path>./fotns.zip</path>
+		<name>북두의 권</name>
+		<image>./boxart/fotns.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/fotns.mp4</video>
+	</game>
+	<game>
+		<path>./ftspeed.zip</path>
+		<name>패스터 댄 스피드</name>
+		<image>./boxart/ftspeed.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/ftspeed.mp4</video>
+	</game>
+	<game>
+		<path>./ggisuka.zip</path>
+		<name>길티 기어 이스카</name>
+		<image>./boxart/ggisuka.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/ggisuka.mp4</video>
+	</game>
+	<game>
+		<path>./ggx15.zip</path>
+		<name>길티 기어 버전 1.5</name>
+		<image>./boxart/ggx15.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/ggx15.mp4</video>
+	</game>
+	<game>
+		<path>./kofnw.zip</path>
+		<name>더 킹 오브 파이터즈 - 네오 웨이브 (북미판)</name>
+		<image>./boxart/kofnw.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/kofnw.mp4</video>
+	</game>
+	<game>
+		<path>./kofnwj.zip</path>
+		<name>더 킹 오브 파이터즈 - 네오 웨이브 (일본판)</name>
+		<image>./boxart/kofnw.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/kofnw.mp4</video>
+	</game>
+	<game>
+		<path>./kofxi.zip</path>
+		<name>더 킹 오브 파이터즈 XI</name>
+		<image>./boxart/kofxi.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/kofxi.mp4</video>
+	</game>
+	<game>
+		<path>./kov7sprt.zip</path>
+		<name>신 삼국전기 - 칠성전생</name>
+		<image>./boxart/kov7sprt.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/kov7sprt.mp4</video>
+	</game>
+	<game>
+		<path>./maxspeed.zip</path>
+		<name>맥시멈 스피드</name>
+		<image>./boxart/maxspeed.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/maxspeed.mp4</video>
+	</game>
+	<game>
+		<path>./mslug6.zip</path>
+		<name>메탈 슬러그 6</name>
+		<image>./boxart/mslug6.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/mslug6.mp4</video>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>네오지오 배틀 콜리세움 (북미판)</name>
+		<image>./boxart/ngbc.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/ngbc.mp4</video>
+	</game>
+	<game>
+		<path>./ngbcj.zip</path>
+		<name>네오지오 배틀 콜리세움 (일본판)</name>
+		<image>./boxart/ngbc.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/ngbc.mp4</video>
+	</game>
+	<game>
+		<path>./rangrmsn.zip</path>
+		<name>레인저 미션</name>
+		<image>./boxart/rangrmsn.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/rangrmsn.mp4</video>
+	</game>
+	<game>
+		<path>./rumblef.zip</path>
+		<name>더 럼블 피시</name>
+		<image>./boxart/rumblef.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/rumblef.mp4</video>
+	</game>
+	<game>
+		<path>./rumblefp.zip</path>
+		<name>더 럼블 피시 (시제품, 20 Feb 2004)</name>
+		<image>./boxart/rumblef.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/rumblef.mp4</video>
+	</game>
+	<game>
+		<path>./rumblef2.zip</path>
+		<name>더 럼블 피시 2</name>
+		<image>./boxart/rumblef2.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/rumblef2.mp4</video>
+	</game>
+	<game>
+		<path>./rumblf2p.zip</path>
+		<name>더 럼블 피시 2 (시제품, 11 Jan 2005)</name>
+		<image>./boxart/rumblef2.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/rumblef2.mp4</video>
+	</game>
+	<game>
+		<path>./salmankt.zip</path>
+		<name>넷 셀렉트: 샐러리맨 킨타로</name>
+		<image>./boxart/salmankt.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/salmankt.mp4</video>
+	</game>
+	<game>
+		<path>./samsptk.zip</path>
+		<name>사무라이 스피리츠 - 천하제일 검객전</name>
+		<image>./boxart/samsptk.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/samsptk.mp4</video>
+	</game>
+	<game>
+		<path>./sprtshot.zip</path>
+		<name>스포츠 슈팅 USA</name>
+		<image>./boxart/sprtshot.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/sprtshot.mp4</video>
+	</game>
+	<game>
+		<path>./sushibar.zip</path>
+		<name>잡아 잡아! 스시 (시제품, 23 May 2003)</name>
+		<image>./boxart/sushibar.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/sushibar.mp4</video>
+	</game>
+	<game>
+		<path>./vfurlong.zip</path>
+		<name>넷 셀렉트 경마: 빅토리 퍼롱</name>
+		<image>./boxart/vfurlong.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/vfurlong.mp4</video>
+	</game>
+	<game>
+		<path>./xtrmhunt.zip</path>
+		<name>익스트림 헌팅</name>
+		<image>./boxart/xtrmhunt.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/xtrmhunt.mp4</video>
+	</game>
+	<game>
+		<path>./xtrmhnt2.zip</path>
+		<name>익스트림 헌팅 2</name>
+		<image>./boxart/xtrmhnt2.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/xtrmhnt2.mp4</video>
+	</game>
+	<game>
+		<path>./waidrive.zip</path>
+		<name>왁자지껄 드라이브</name>
+		<image>./boxart/waidrive.png</image>
+		<thumbnail>./thumbnail/none.png</thumbnail>
+		<video>./snap/waidrive.mp4</video>
+	</game>
+</gameList>
