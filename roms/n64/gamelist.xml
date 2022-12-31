@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<!--------------------------------------------------------
+		닌텐도 64 (일본판)
+	---------------------------------------------------------->
+	<folder>
+		<path>./n64_jap</path>
+		<name>닌텐도 64 (일본판)</name>
+		<image>./boxart/n64.png</image>
+	</folder>
+	<game>
+		<path>./n64_jap/Mario Kart 64 (Japan).zip</path>
+		<name>마리오 카트 64</name>
+		<image>./n64_jap/boxart/Mario Kart 64.png</image>
+		<video>./n64_jap/snap/Mario Kart 64.mp4</video>
+	</game>
+	<game>
+		<path>./n64_jap/Star Fox 64 (Japan).zip</path>
+		<name>스타 폭스 64</name>
+		<image>./n64_jap/boxart/Star Fox 64.png</image>
+		<video>./n64_jap/snap/Star Fox 64.mp4</video>
+	</game>
+	<game>
+		<path>./n64_jap/Super Mario 64 (Japan).zip</path>
+		<name>슈퍼 마리오 64</name>
+		<image>./n64_jap/boxart/Super Mario 64.png</image>
+		<video>./n64_jap/snap/Super Mario 64.mp4</video>
+	</game>
+	<game>
+		<path>./n64_jap/Zelda no Densetsu - Mujura no Kamen (Japan).zip</path>
+		<name>젤다의 전설 - 뮤주라의 가면</name>
+		<image>./n64_jap/boxart/Zelda no Densetsu - Mujura no Kamen.png</image>
+		<video>./n64_jap/snap/Zelda no Densetsu - Mujura no Kamen.mp4</video>
+	</game>
+	<game>
+		<path>./n64_jap/Zelda no Densetsu - Toki no Ocarina (Japan).zip</path>
+		<name>젤다의 전설 - 시간의 오카리나</name>
+		<image>./n64_jap/boxart/Zelda no Densetsu - Toki no Ocarina.png</image>
+		<video>./n64_jap/snap/Zelda no Densetsu - Toki no Ocarina.mp4</video>
+	</game>
+	<!--------------------------------------------------------
+		닌텐도 64 (북미판)
+	---------------------------------------------------------->
+	<folder>
+		<path>./n64_usa</path>
+		<name>닌텐도 64 (북미판)</name>
+		<image>./boxart/n64.png</image>
+	</folder>
+	<game>
+		<path>./n64_usa/007 - The World Is Not Enough (USA).zip</path>
+		<name>007 - 더 월드 이스 낫 이너프</name>
+		<image>./n64_usa/boxart/007 - The World Is Not Enough.png</image>
+		<video>./n64_usa/snap/007 - The World Is Not Enough.mp4</video>
+	</game>
+	<game>
+		<path>./n64_usa/Bomberman 64 (USA).zip</path>
+		<name>봄버맨 64</name>
+		<image>./n64_usa/boxart/Bomberman 64.png</image>
+		<video>./n64_usa/snap/Bomberman 64.mp4</video>
+	</game>
+	<game>
+		<path>./n64_usa/Destruction Derby 64 (USA).zip</path>
+		<name>디스트럭션 더비 64</name>
+		<image>./n64_usa/boxart/Destruction Derby 64.png</image>
+		<video>./n64_usa/snap/Destruction Derby 64.mp4</video>
+	</game>
+	<game>
+		<path>./n64_usa/Doom 64 (USA).zip</path>
+		<name>둠 64</name>
+		<image>./n64_usa/boxart/Doom 64.png</image>
+		<video>./n64_usa/snap/Doom 64.mp4</video>
+	</game>
+	<game>
+		<path>./n64_usa/F-Zero X (USA).zip</path>
+		<name>F-제로 X</name>
+		<image>./n64_usa/boxart/F-Zero X.png</image>
+		<video>./n64_usa/snap/F-Zero X.mp4</video>
+	</game>
+</gameList>
