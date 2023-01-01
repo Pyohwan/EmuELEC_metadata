@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<!--------------------------------------------------------
+		드림캐스트 (일본판)
+	---------------------------------------------------------->
+	<folder>
+		<path>./dc_jap</path>
+		<name>드림캐스트 (일본판)</name>
+		<image>./boxart/dreamcast.png</image>
+	</folder>
+	<game>
+		<path>./dc_jap/Daytona USA 2001 (JAP).chd</path>
+		<name>데이토나 USA 2001</name>
+		<image>./dc_jap/boxart/Daytona_USA_2001.png</image>
+		<video>./dc_jap/snap/Daytona_USA_2001.mp4</video>
+	</game>
+	<game>
+		<path>./dc_jap/Dead or Alive 2 - Limited Edition (JAP).chd</path>
+		<name>데드 오어 얼라이브 2</name>
+		<image>./dc_jap/boxart/Dead_or_Alive_2-Limited_Edition.png</image>
+		<video>./dc_jap/snap/Dead_or_Alive_2.mp4</video>
+	</game>
+	<game>
+		<path>./dc_jap/Ikaruga (JAP).chd</path>
+		<name>이카루가</name>
+		<image>./dc_jap/boxart/Ikaruga.png</image>
+		<video>./dc_jap/snap/Ikaruga.mp4</video>
+	</game>
+	<game>
+		<path>./dc_jap/Moero! Justice Gakuen (JAP).chd</path>
+		<name>타올라라! 저스티스 학원</name>
+		<image>./dc_jap/boxart/Moero_Justice_Gakuen.png</image>
+		<video>./dc_jap/snap/Moero_Justice_Gakuen.mp4</video>
+	</game>
+	<game>
+		<path>./dc_jap/Virtua Fighter 3tb (JAP).chd</path>
+		<name>버추어 파이터 3 TB</name>
+		<image>./dc_jap/boxart/Virtua_Fighter_3tb.png</image>
+		<video>./dc_jap/snap/Virtua_Fighter_3tb.mp4</video>
+	</game>
+	<game>
+		<path>./dc_jap/Virtua Striker 2 Ver. 2000.1 (JAP).chd</path>
+		<name>버추어 스트라이커 2 Ver 2000.1</name>
+		<image>./dc_jap/boxart/Virtua_Striker_2_Ver_2000_1.png</image>
+		<video>./dc_jap/snap/Virtua_Striker_2_Ver_2000_1.mp4</video>
+	</game>
+	<!--------------------------------------------------------
+		드림캐스트 (북미판)
+	---------------------------------------------------------->
+	<folder>
+		<path>./dc_usa</path>
+		<name>드림캐스트 (북미판)</name>
+		<image>./boxart/dreamcast.png</image>
+	</folder>
+	<game>
+		<path>./dc_usa/Crazy Taxi (USA).chd</path>
+		<name>크레이지 택시</name>
+		<image>./dc_usa/boxart/Crazy Taxi.png</image>
+		<video>./dc_usa/snap/Crazy Taxi.mp4</video>
+	</game>
+	<game>
+		<path>./dc_usa/Jet Grind Radio (USA).chd</path>
+		<name>젯 그라인드 라디오</name>
+		<image>./dc_usa/boxart/Jet Grind Radio.png</image>
+		<video>./dc_usa/snap/Jet Grind Radio.mp4</video>
+	</game>
+	<game>
+		<path>./dc_usa/Sega Rally 2 (USA).chd</path>
+		<name>세가 랠리 2</name>
+		<image>./dc_usa/boxart/Sega Rally 2.png</image>
+		<video>./dc_usa/snap/Sega Rally 2.mp4</video>
+	</game>
+	<game>
+		<path>./dc_usa/Soul Calibur (USA).chd</path>
+		<name>소울 칼리버</name>
+		<image>./dc_usa/boxart/Soul Calibur.png</image>
+		<video>./dc_usa/snap/Soul Calibur.mp4</video>
+	</game>
+	<game>
+		<path>./dc_usa/Virtua Tennis (USA).chd</path>
+		<name>버추어 테니스</name>
+		<image>./dc_usa/boxart/Virtua Tennis.png</image>
+		<video>./dc_usa/snap/Virtua Tennis.mp4</video>
+	</game>
+	<!--------------------------------------------------------
+		드림캐스트 (Ports)
+	---------------------------------------------------------->
+	<folder>
+		<path>./dc_ports</path>
+		<name>드림캐스트 (Ports)</name>
+		<image>./boxart/dreamcast.png</image>
+	</folder>
+	<game>
+		<path>./dc_ports/demofist.chd</path>
+		<name>데몰리시 피스트</name>
+		<image>./dc_ports/boxart/demofist.png</image>
+		<video>./dc_ports/snap/demofist.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/dolphin.chd</path>
+		<name>돌핀 블루</name>
+		<image>./dc_ports/boxart/dolphin.png</image>
+		<video>./dc_ports/snap/dolphin.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/fotns.chd</path>
+		<name>북두의 권</name>
+		<image>./dc_ports/boxart/fotns.png</image>
+		<video>./dc_ports/snap/fotns.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/ftspeed.chd</path>
+		<name>패스터 댄 스피드</name>
+		<image>./dc_ports/boxart/ftspeed.png</image>
+		<video>./dc_ports/snap/ftspeed.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/ggisuka.chd</path>
+		<name>길티 기어 이스카</name>
+		<image>./dc_ports/boxart/ggisuka.png</image>
+		<video>./dc_ports/snap/ggisuka.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/ggx15.chd</path>
+		<name>길티 기어 버전 1.5</name>
+		<image>./dc_ports/boxart/ggx15.png</image>
+		<video>./dc_ports/snap/ggx15.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/kofnw.chd</path>
+		<name>더 킹 오브 파이터즈 - 네오 웨이브</name>
+		<image>./dc_ports/boxart/kofnw.png</image>
+		<video>./dc_ports/snap/kofnw.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/kofxi.chd</path>
+		<name>더 킹 오브 파이터즈 XI</name>
+		<image>./dc_ports/boxart/kofxi.png</image>
+		<video>./dc_ports/snap/kofxi.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/kov7sprt.chd</path>
+		<name>신 삼국전기 - 칠성전생</name>
+		<image>./dc_ports/boxart/kov7sprt.png</image>
+		<video>./dc_ports/snap/kov7sprt.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/maxspeed.chd</path>
+		<name>맥시멈 스피드</name>
+		<image>./dc_ports/boxart/maxspeed.png</image>
+		<video>./dc_ports/snap/maxspeed.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/mslug6.chd</path>
+		<name>메탈 슬러그 6</name>
+		<image>./dc_ports/boxart/mslug6.png</image>
+		<video>./dc_ports/snap/mslug6.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/ngbc.chd</path>
+		<name>네오지오 배틀 콜리세움</name>
+		<image>./dc_ports/boxart/ngbc.png</image>
+		<video>./dc_ports/snap/ngbc.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/rumblef.chd</path>
+		<name>더 럼블 피시</name>
+		<image>./dc_ports/boxart/rumblef.png</image>
+		<video>./dc_ports/snap/rumblef.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/rumblef2.chd</path>
+		<name>더 럼블 피시 2</name>
+		<image>./dc_ports/boxart/rumblef2.png</image>
+		<video>./dc_ports/snap/rumblef2.mp4</video>
+	</game>
+	<game>
+		<path>./dc_ports/sushibar.chd</path>
+		<name>잡아 잡아! 스시</name>
+		<image>./dc_ports/boxart/sushibar.png</image>
+		<video>./dc_ports/snap/sushibar.mp4</video>
+	</game>
+</gameList>
