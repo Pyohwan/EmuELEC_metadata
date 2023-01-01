@@ -76,4 +76,1043 @@
 		<image>./n64_usa/boxart/F-Zero X.png</image>
 		<video>./n64_usa/snap/F-Zero X.mp4</video>
 	</game>
+
+<!-- 어른이놀터 gamelist.xml -->
+
+	<game>
+		<path>./F-1 World Grand Prix (USA).zip</path>
+		<name>F-1 월드 그랜드 프릭스</name>
+		<image>./snap/F-1 World Grand Prix (USA).png</image>
+		<video>./snap/F-1 World Grand Prix (USA).mp4</video>
+		<marquee>./marquee/F-1 World Grand Prix (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./F-Zero X (USA).zip</path>
+		<name>F-제로 X</name>
+		<image>./snap/F-Zero X (USA).png</image>
+		<video>./snap/F-Zero X (USA).mp4</video>
+		<marquee>./marquee/F-Zero X (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./GT64 - Championship Edition (USA).zip</path>
+		<name>GT 64  - 챔피언쉽 레이싱</name>
+		<image>./snap/GT64 - Championship Edition (USA).png</image>
+		<video>./snap/GT64 - Championship Edition (USA).mp4</video>
+		<marquee>./marquee/GT64 - Championship Edition (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Gex 3 - Deep Cover Gecko (USA).zip</path>
+		<name>객스 3 - 딥 커버 게코</name>
+		<image>./snap/Gex 3 - Deep Cover Gecko (USA).png</image>
+		<video>./snap/Gex 3 - Deep Cover Gecko (USA).mp4</video>
+		<marquee>./marquee/Gex 3 - Deep Cover Gecko (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Gex 64 - Enter the Gecko (USA).zip</path>
+		<name>객스 64 - 엔터 더 게코</name>
+		<image>./snap/Gex 64 - Enter the Gecko (USA).png</image>
+		<video>./snap/Gex 64 - Enter the Gecko (USA).mp4</video>
+		<marquee>./marquee/Gex 64 - Enter the Gecko (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Golden Nugget 64 (USA).zip</path>
+		<name>골든 너겟 64</name>
+		<image>./snap/Golden Nugget 64 (USA).png</image>
+		<video>./snap/Golden Nugget 64 (USA).mp4</video>
+		<marquee>./marquee/Golden Nugget 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Glover (USA).zip</path>
+		<name>글로버</name>
+		<image>./snap/Glover (USA).png</image>
+		<video>./snap/Glover (USA).mp4</video>
+		<marquee>./marquee/Glover (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Nuclear Strike 64 (USA).zip</path>
+		<name>뉴클리어 스트라이크 64</name>
+		<image>./snap/Nuclear Strike 64 (USA).png</image>
+		<video>./snap/Nuclear Strike 64 (USA).mp4</video>
+		<marquee>./marquee/Nuclear Strike 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Donald Duck - Goin' Quackers (USA).zip</path>
+		<name>도날드 덕 고잉 퀘이커</name>
+		<image>./snap/Donald Duck - Goin' Quackers (USA).png</image>
+		<video>./snap/Donald Duck - Goin' Quackers (USA).mp4</video>
+		<marquee>./marquee/Donald Duck - Goin' Quackers (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Donkey Kong 64 (USA).zip</path>
+		<name>동키콩 64</name>
+		<image>./snap/Donkey Kong 64 (USA).png</image>
+		<video>./snap/Donkey Kong 64 (USA).mp4</video>
+		<marquee>./marquee/Donkey Kong 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Doom 64 (USA).zip</path>
+		<name>둠 64</name>
+		<image>./snap/Doom 64 (USA).png</image>
+		<video>./snap/Doom 64 (USA).mp4</video>
+		<marquee>./marquee/Doom 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Dual Heroes (USA).zip</path>
+		<name>듀얼 히어로즈</name>
+		<image>./snap/Dual Heroes (USA).png</image>
+		<video>./snap/Dual Heroes (USA).mp4</video>
+		<marquee>./marquee/Dual Heroes (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Duke Nukem - Zero Hour (USA).zip</path>
+		<name>듀크 뉴켐 - 제로 헌터</name>
+		<image>./snap/Duke Nukem - Zero Hour (USA).png</image>
+		<video>./snap/Duke Nukem - Zero Hour (USA).mp4</video>
+		<marquee>./marquee/Duke Nukem - Zero Hour (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Duke Nukem 64 (USA).zip</path>
+		<name>듀크 뉴켐 64</name>
+		<image>./snap/Duke Nukem 64 (USA).png</image>
+		<video>./snap/Duke Nukem 64 (USA).mp4</video>
+		<marquee>./marquee/Duke Nukem 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Diddy Kong Racing (USA) (En,Fr) (Rev A).zip</path>
+		<name>디디콩 레이싱</name>
+		<image>./snap/Diddy Kong Racing (USA) (En,Fr) (Rev A).png</image>
+		<video>./snap/Diddy Kong Racing (USA) (En,Fr) (Rev A).mp4</video>
+		<marquee>./marquee/Diddy Kong Racing (USA) (En,Fr) (Rev A).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Rush 2 - Extreme Racing USA (USA).zip</path>
+		<name>러쉬 2 익스트림 레이싱 USA</name>
+		<image>./snap/Rush 2 - Extreme Racing USA (USA).png</image>
+		<video>./snap/Rush 2 - Extreme Racing USA (USA).mp4</video>
+		<marquee>./marquee/Rush 2 - Extreme Racing USA (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./LEGO Racers (USA).zip</path>
+		<name>레고 레이서즈</name>
+		<image>./snap/LEGO Racers (USA).png</image>
+		<video>./snap/LEGO Racers (USA).mp4</video>
+		<marquee>./marquee/LEGO Racers (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Road Rash 64 (USA).zip</path>
+		<name>로드 러쉬 64</name>
+		<image>./snap/Road Rash 64 (USA).png</image>
+		<video>./snap/Road Rash 64 (USA).mp4</video>
+		<marquee>./marquee/Road Rash 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Looney Tunes - Duck Dodgers.zip</path>
+		<name>루니 툰스 - 덕 다저스</name>
+		<image>./snap/Looney Tunes - Duck Dodgers.png</image>
+		<video>./snap/Looney Tunes - Duck Dodgers.mp4</video>
+		<marquee>./marquee/Looney Tunes - Duck Dodgers.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mario Kart 64 (USA).zip</path>
+		<name>마리오 카트 64</name>
+		<image>./snap/Mario Kart 64 (USA).png</image>
+		<video>./snap/Mario Kart 64 (USA).mp4</video>
+		<marquee>./marquee/Mario Kart 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Micro Machines 64 Turbo (USA).zip</path>
+		<name>마이크로 머신 64 터보</name>
+		<image>./snap/Micro Machines 64 Turbo (USA).png</image>
+		<video>./snap/Micro Machines 64 Turbo (USA).mp4</video>
+		<marquee>./marquee/Micro Machines 64 Turbo (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mega Man 64 (USA).zip</path>
+		<name>메가맨 64</name>
+		<image>./snap/Mega Man 64 (USA).png</image>
+		<video>./snap/Mega Man 64 (USA).mp4</video>
+		<marquee>./marquee/Mega Man 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Monopoly (USA).zip</path>
+		<name>모노폴리</name>
+		<image>./snap/Monopoly (USA).png</image>
+		<video>./snap/Monopoly (USA).mp4</video>
+		<marquee>./marquee/Monopoly (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mortal Kombat 4 (USA).zip</path>
+		<name>모탈 컴뱃 4</name>
+		<image>./snap/Mortal Kombat 4 (USA).png</image>
+		<video>./snap/Mortal Kombat 4 (USA).mp4</video>
+		<marquee>./marquee/Mortal Kombat 4 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mortal Kombat Mythologies - Sub-Zero (USA).zip</path>
+		<name>모탈 컴뱃 미쏠로지 서브제로</name>
+		<image>./snap/Mortal Kombat Mythologies - Sub-Zero (USA).png</image>
+		<video>./snap/Mortal Kombat Mythologies - Sub-Zero (USA).mp4</video>
+		<marquee>./marquee/Mortal Kombat Mythologies - Sub-Zero (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mortal Kombat Trilogy (USA).zip</path>
+		<name>모탈 컴뱃 트릴로지</name>
+		<image>./snap/Mortal Kombat Trilogy (USA).png</image>
+		<video>./snap/Mortal Kombat Trilogy (USA).mp4</video>
+		<marquee>./marquee/Mortal Kombat Trilogy (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mission Impossible (USA).zip</path>
+		<name>미션 임파서블</name>
+		<image>./snap/Mission Impossible (USA).png</image>
+		<video>./snap/Mission Impossible (USA).mp4</video>
+		<marquee>./marquee/Mission Impossible (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mystical Ninja 2 - Starring Goemon.zip</path>
+		<name>미스티칼 닌자 2 스타링 고에몬</name>
+		<image>./snap/Mystical Ninja 2 - Starring Goemon.png</image>
+		<video>./snap/Mystical Ninja 2 - Starring Goemon.mp4</video>
+		<marquee>./marquee/Mystical Ninja 2 - Starring Goemon.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mystical Ninja Starring Goemon (USA).zip</path>
+		<name>미스티칼 닌자 스타링 고에몬</name>
+		<image>./snap/Mystical Ninja Starring Goemon (USA).png</image>
+		<video>./snap/Mystical Ninja Starring Goemon (USA).mp4</video>
+		<marquee>./marquee/Mystical Ninja Starring Goemon (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Banjo-Kazooie (USA) (Rev A).zip</path>
+		<name>반조 카주이</name>
+		<image>./snap/Banjo-Kazooie (USA) (Rev A).png</image>
+		<video>./snap/Banjo-Kazooie (USA) (Rev A).mp4</video>
+		<marquee>./marquee/Banjo-Kazooie (USA) (Rev A).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Banjo-Tooie (USA).zip</path>
+		<name>반조 투이</name>
+		<image>./snap/Banjo-Tooie (USA).png</image>
+		<video>./snap/Banjo-Tooie (USA).mp4</video>
+		<marquee>./marquee/Banjo-Tooie (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Bomberman 64 (USA).zip</path>
+		<name>범버맨 64</name>
+		<image>./snap/Bomberman 64 (USA).png</image>
+		<video>./snap/Bomberman 64 (USA).mp4</video>
+		<marquee>./marquee/Bomberman 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Bomberman Hero (USA).zip</path>
+		<name>범버맨 히어로</name>
+		<image>./snap/Bomberman Hero (USA).png</image>
+		<video>./snap/Bomberman Hero (USA).mp4</video>
+		<marquee>./marquee/Bomberman Hero (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Kirby 64 - The Crystal Shards (USA).zip</path>
+		<name>별의 커비 64</name>
+		<image>./snap/Kirby 64 - The Crystal Shards (USA).png</image>
+		<video>./snap/Kirby 64 - The Crystal Shards (USA).mp4</video>
+		<marquee>./marquee/Kirby 64 - The Crystal Shards (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Bomberman 64 - The Second Attack! (USA).zip</path>
+		<name>봄버맨 64 - 세컨드 어택</name>
+		<image>./snap/Bomberman 64 - The Second Attack! (USA).png</image>
+		<video>./snap/Bomberman 64 - The Second Attack! (USA).mp4</video>
+		<marquee>./marquee/Bomberman 64 - The Second Attack! (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./South Park (USA).zip</path>
+		<name>사우스 파크</name>
+		<image>./snap/South Park (USA).png</image>
+		<video>./snap/South Park (USA).mp4</video>
+		<marquee>./marquee/South Park (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./South Park - Chef's Luv Shack (USA).zip</path>
+		<name>사우스 파크 셰프의 러브 섀크</name>
+		<image>./snap/South Park - Chef's Luv Shack (USA).png</image>
+		<video>./snap/South Park - Chef's Luv Shack (USA).mp4</video>
+		<marquee>./marquee/South Park - Chef's Luv Shack (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./San Francisco Rush - Extreme Racing (USA).zip</path>
+		<name>샌프란시스코 러쉬-익스트림 레이싱</name>
+		<image>./snap/San Francisco Rush - Extreme Racing (USA).png</image>
+		<video>./snap/San Francisco Rush - Extreme Racing (USA).mp4</video>
+		<marquee>./marquee/San Francisco Rush - Extreme Racing (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Super Mario 64 (USA).zip</path>
+		<name>슈퍼 마리오 64</name>
+		<image>./snap/Super Mario 64 (USA).png</image>
+		<video>./snap/Super Mario 64 (USA).mp4</video>
+		<marquee>./marquee/Super Mario 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Starfox 64 1.1 (U).zip</path>
+		<name>스타 폭스 64</name>
+		<image>./snap/Starfox 64 1.1 (U).png</image>
+		<video>./snap/Starfox 64 1.1 (U).mp4</video>
+		<marquee>./marquee/Starfox 64 1.1 (U).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Star Wars - Shadows of the Empire (USA).zip</path>
+		<name>스타워즈: 제국의 그림자</name>
+		<image>./snap/Star Wars - Shadows of the Empire (USA).png</image>
+		<video>./snap/Star Wars - Shadows of the Empire (USA).mp4</video>
+		<marquee>./marquee/Star Wars - Shadows of the Empire (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./StarCraft 64 (U) [!].zip</path>
+		<name>스타크래프트 64</name>
+		<image>./snap/StarCraft 64 (U) [!].png</image>
+		<video>./snap/StarCraft 64 (U) [!].mp4</video>
+		<marquee>./marquee/StarCraft 64 (U) [!].png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Space Invaders (USA).zip</path>
+		<name>스페이스 인베이더스</name>
+		<image>./snap/Space Invaders (USA).png</image>
+		<video>./snap/Space Invaders (USA).mp4</video>
+		<marquee>./marquee/Space Invaders (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Earthworm Jim 3D (USA).zip</path>
+		<name>어쓰웜 짐 3D</name>
+		<image>./snap/Earthworm Jim 3D (USA).png</image>
+		<video>./snap/Earthworm Jim 3D (USA).mp4</video>
+		<marquee>./marquee/Earthworm Jim 3D (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Wipeout 64 (USA).zip</path>
+		<name>와이프 아웃 64</name>
+		<image>./snap/Wipeout 64 (USA).png</image>
+		<video>./snap/Wipeout 64 (USA).mp4</video>
+		<marquee>./marquee/Wipeout 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Yoshi's Story (USA).zip</path>
+		<name>요시 스토리</name>
+		<image>./snap/Yoshi's Story (USA).png</image>
+		<video>./snap/Yoshi's Story (USA).mp4</video>
+		<marquee>./marquee/Yoshi's Story (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Worms Armageddon (USA).zip</path>
+		<name>웜즈 아마게돈</name>
+		<image>./snap/Worms Armageddon (USA).png</image>
+		<video>./snap/Worms Armageddon (USA).mp4</video>
+		<marquee>./marquee/Worms Armageddon (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Excitebike 64 (USA).zip</path>
+		<name>익사이트바이크 64</name>
+		<image>./snap/Excitebike 64 (USA).png</image>
+		<video>./snap/Excitebike 64 (USA).mp4</video>
+		<marquee>./marquee/Excitebike 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Extreme-G (USA).zip</path>
+		<name>익스트림-G</name>
+		<image>./snap/Extreme-G (USA).png</image>
+		<video>./snap/Extreme-G (USA).mp4</video>
+		<marquee>./marquee/Extreme-G (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Indy Racing 2000 (USA).zip</path>
+		<name>인디 레이싱 2000</name>
+		<image>./snap/Indy Racing 2000 (USA).png</image>
+		<video>./snap/Indy Racing 2000 (USA).mp4</video>
+		<marquee>./marquee/Indy Racing 2000 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Indiana Jones and the Infernal Machine (USA).zip</path>
+		<name>인디아나 존스 앤드 더 인페르날 머신</name>
+		<image>./snap/Indiana Jones and the Infernal Machine (USA).png</image>
+		<video>./snap/Indiana Jones and the Infernal Machine (USA).mp4</video>
+		<marquee>./marquee/Indiana Jones and the Infernal Machine (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./International Superstar Soccer 2000 (USA) (En,Es).zip</path>
+		<name>인터내셔날 슈퍼스타 사커 2000</name>
+		<image>./snap/International Superstar Soccer 2000 (USA) (En,Es).png</image>
+		<video>./snap/International Superstar Soccer 2000 (USA) (En,Es).mp4</video>
+		<marquee>./marquee/International Superstar Soccer 2000 (USA) (En,Es).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Jeopardy! (USA).zip</path>
+		<name>제퍼디!</name>
+		<image>./snap/Jeopardy! (USA).png</image>
+		<video>./snap/Jeopardy! (USA).mp4</video>
+		<marquee>./marquee/Jeopardy! (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Majora's Mask (USA).zip</path>
+		<name>젤다의 전설:뮤주라의 가면</name>
+		<image>./snap/Legend of Zelda, The - Majora's Mask (USA).png</image>
+		<video>./snap/Legend of Zelda, The - Majora's Mask (USA).mp4</video>
+		<marquee>./marquee/Legend of Zelda, The - Majora's Mask (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time (USA).zip</path>
+		<name>젤다의 전설:시간의 오카리나</name>
+		<image>./snap/Legend of Zelda, The - Ocarina of Time (USA).png</image>
+		<video>./snap/Legend of Zelda, The - Ocarina of Time (USA).mp4</video>
+		<marquee>./marquee/Legend of Zelda, The - Ocarina of Time (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Chopper Attack (USA).zip</path>
+		<name>쵸퍼 어택</name>
+		<image>./snap/Chopper Attack (USA).png</image>
+		<video>./snap/Chopper Attack (USA).mp4</video>
+		<marquee>./marquee/Chopper Attack (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Carmageddon 64 (USA).zip</path>
+		<name>카마게돈 64</name>
+		<image>./snap/Carmageddon 64 (USA).png</image>
+		<video>./snap/Carmageddon 64 (USA).mp4</video>
+		<marquee>./marquee/Carmageddon 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Chameleon Twist (USA).zip</path>
+		<name>카멜레온 트위스트</name>
+		<image>./snap/Chameleon Twist (USA).png</image>
+		<video>./snap/Chameleon Twist (USA).mp4</video>
+		<marquee>./marquee/Chameleon Twist (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Chameleon Twist 2 (USA).zip</path>
+		<name>카멜레온 트위스트 2</name>
+		<image>./snap/Chameleon Twist 2 (USA).png</image>
+		<video>./snap/Chameleon Twist 2 (USA).mp4</video>
+		<marquee>./marquee/Chameleon Twist 2 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Castlevania (USA) (Rev B).zip</path>
+		<name>케슬베니아</name>
+		<image>./snap/Castlevania (USA) (Rev B).png</image>
+		<video>./snap/Castlevania (USA) (Rev B).mp4</video>
+		<marquee>./marquee/Castlevania (USA) (Rev B).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Castlevania - Legacy of Darkness (USA).zip</path>
+		<name>케슬베니아: 어둠의 유산</name>
+		<image>./snap/Castlevania - Legacy of Darkness (USA).png</image>
+		<video>./snap/Castlevania - Legacy of Darkness (USA).mp4</video>
+		<marquee>./marquee/Castlevania - Legacy of Darkness (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Cruis'n USA (USA) (Rev B).zip</path>
+		<name>크루즌 USA</name>
+		<image>./snap/Cruis'n USA (USA) (Rev B).png</image>
+		<video>./snap/Cruis'n USA (USA) (Rev B).mp4</video>
+		<marquee>./marquee/Cruis'n USA (USA) (Rev B).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Cruis'n Exotica (USA).zip</path>
+		<name>크루즌 엑소티카</name>
+		<image>./snap/Cruis'n Exotica (USA).png</image>
+		<video>./snap/Cruis'n Exotica (USA).mp4</video>
+		<marquee>./marquee/Cruis'n Exotica (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Cruis'n World (USA).zip</path>
+		<name>크루즌 월드</name>
+		<image>./snap/Cruis'n World (USA).png</image>
+		<video>./snap/Cruis'n World (USA).mp4</video>
+		<marquee>./marquee/Cruis'n World (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Killer Instinct Gold (USA) (Rev B).zip</path>
+		<name>킬러 인스팅트 골드</name>
+		<image>./snap/Killer Instinct Gold (USA) (Rev B).png</image>
+		<video>./snap/Killer Instinct Gold (USA) (Rev B).mp4</video>
+		<marquee>./marquee/Killer Instinct Gold (USA) (Rev B).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater (USA).zip</path>
+		<name>토니 호크 프로 스케이터</name>
+		<image>./snap/Tony Hawk's Pro Skater (USA).png</image>
+		<video>./snap/Tony Hawk's Pro Skater (USA).mp4</video>
+		<marquee>./marquee/Tony Hawk's Pro Skater (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2 (USA).zip</path>
+		<name>토니 호크 프로 스케이터 2</name>
+		<image>./snap/Tony Hawk's Pro Skater 2 (USA).png</image>
+		<video>./snap/Tony Hawk's Pro Skater 2 (USA).mp4</video>
+		<marquee>./marquee/Tony Hawk's Pro Skater 2 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3 (USA).zip</path>
+		<name>토니 호크 프로 스케이터 3</name>
+		<image>./snap/Tony Hawk's Pro Skater 3 (USA).png</image>
+		<video>./snap/Tony Hawk's Pro Skater 3 (USA).mp4</video>
+		<marquee>./marquee/Tony Hawk's Pro Skater 3 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Turok - Dinosaur Hunter (USA).zip</path>
+		<name>튜록 다이노소어 헌터</name>
+		<image>./snap/Turok - Dinosaur Hunter (USA).png</image>
+		<video>./snap/Turok - Dinosaur Hunter (USA).mp4</video>
+		<marquee>./marquee/Turok - Dinosaur Hunter (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Turok - Rage Wars (USA).zip</path>
+		<name>튜록 레이지 워즈</name>
+		<image>./snap/Turok - Rage Wars (USA).png</image>
+		<video>./snap/Turok - Rage Wars (USA).mp4</video>
+		<marquee>./marquee/Turok - Rage Wars (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Power Rangers - Lightspeed Rescue (USA).zip</path>
+		<name>파워레인저 라이트스피드 레스큐</name>
+		<image>./snap/Power Rangers - Lightspeed Rescue (USA).png</image>
+		<video>./snap/Power Rangers - Lightspeed Rescue (USA).mp4</video>
+		<marquee>./marquee/Power Rangers - Lightspeed Rescue (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Paper Mario (USA).zip</path>
+		<name>페이퍼 마리오</name>
+		<image>./snap/Paper Mario (USA).png</image>
+		<video>./snap/Paper Mario (USA).mp4</video>
+		<marquee>./marquee/Paper Mario (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Paperboy (USA).zip</path>
+		<name>페이퍼보이</name>
+		<image>./snap/Paperboy (USA).png</image>
+		<video>./snap/Paperboy (USA).mp4</video>
+		<marquee>./marquee/Paperboy (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Forsaken 64 (USA).zip</path>
+		<name>포쉐이큰 64</name>
+		<image>./snap/Forsaken 64 (USA).png</image>
+		<video>./snap/Forsaken 64 (USA).mp4</video>
+		<marquee>./marquee/Forsaken 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Harvest Moon 64 (USA).zip</path>
+		<name>하베스트 문 64</name>
+		<image>./snap/Harvest Moon 64 (USA).png</image>
+		<video>./snap/Harvest Moon 64 (USA).mp4</video>
+		<marquee>./marquee/Harvest Moon 64 (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Hot Wheels - Turbo Racing (USA).zip</path>
+		<name>핫휠즈 - 터보 레이싱</name>
+		<image>./snap/Hot Wheels - Turbo Racing (USA).png</image>
+		<video>./snap/Hot Wheels - Turbo Racing (USA).mp4</video>
+		<marquee>./marquee/Hot Wheels - Turbo Racing (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Hercules - The Legendary Journeys (USA).zip</path>
+		<name>헤라클레스 - 전설의 여행</name>
+		<image>./snap/Hercules - The Legendary Journeys (USA).png</image>
+		<video>./snap/Hercules - The Legendary Journeys (USA).mp4</video>
+		<marquee>./marquee/Hercules - The Legendary Journeys (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Dr. Mario 64 (USA).zip</path>
+		<name>닥터 마리오 64</name>
+		<image>./snap/Dr. Mario 64 (USA).png</image>
+		<video>./snap/Dr. Mario 64 (USA).mp4</video>
+		<marquee>./marquee/Dr. Mario 64 (USA).png</marquee>
+		<releasedate></releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20210125T133743</lastplayed>
+		<gametime>58</gametime>
+	</game>
+	<game>
+		<path>./FIFA 99 (USA).zip</path>
+		<name>피파 99</name>
+		<image>./snap/FIFA 99 (USA).png</image>
+		<video>./snap/FIFA 99 (USA).mp4</video>
+		<marquee>./marquee/FIFA 99 (USA).png</marquee>
+		<releasedate></releasedate>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210125T133321</lastplayed>
+		<gametime>132</gametime>
+	</game>
+	<game>
+		<path>./FIFA Soccer 64 (USA).zip</path>
+		<name>피파 사커 64</name>
+		<image>./snap/FIFA Soccer 64 (USA).png</image>
+		<video>./snap/FIFA Soccer 64 (USA).mp4</video>
+		<marquee>./marquee/FIFA Soccer 64 (USA).png</marquee>
+		<releasedate></releasedate>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20210125T133602</lastplayed>
+		<gametime>97</gametime>
+	</game>
 </gameList>
