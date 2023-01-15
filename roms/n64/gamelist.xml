@@ -196,18 +196,27 @@
 		<players>1</players>
 		<desc />
 	</game>
-	<game>
+	<game id="5404">
 		<path>./Donkey Kong 64 (USA).zip</path>
 		<name>동키콩 64</name>
 		<image>./snap/Donkey Kong 64 (USA).png</image>
-		<video>./snap/Donkey Kong 64 (USA).mp4</video>
-		<marquee>./marquee/Donkey Kong 64 (USA).png</marquee>
-		<developer />
-		<publisher />
-		<genre />
-		<releasedate />
-		<players>1</players>
-		<desc />
+                <video>./videos/Donkey Kong 64 (USA)-video.mp4</video>
+                <marquee>./images/Donkey Kong 64 (USA)-marquee.png</marquee>
+                <thumbnail>./images/Donkey Kong 64 (USA)-thumb.png</thumbnail>
+                <fanart>./images/Donkey Kong 64 (USA)-fanart.jpg</fanart>
+                <bezel>./images/Donkey Kong 64 (USA)-bezel.png</bezel>
+                <boxback>./images/Donkey Kong 64 (USA)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19991122T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <family>Donkey Kong</family>
+                <players>4</players>
+                <md5>b71a88ba73e141fa2d355a6a72f46f6c</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104016" />
 	</game>
 	<game>
 		<path>./Doom 64 (USA).zip</path>
@@ -456,31 +465,49 @@
 		<players>1</players>
 		<desc />
 	</game>
-	<game>
+	<game id="5405">
 		<path>./Banjo-Kazooie (USA) (Rev A).zip</path>
 		<name>반조 카주이</name>
 		<image>./snap/Banjo-Kazooie (USA) (Rev A).png</image>
-		<video>./snap/Banjo-Kazooie (USA) (Rev A).mp4</video>
-		<marquee>./marquee/Banjo-Kazooie (USA) (Rev A).png</marquee>
-		<developer />
-		<publisher />
-		<genre />
-		<releasedate />
-		<players>1</players>
-		<desc />
+                <video>./videos/Banjo-Kazooie (USA) (Rev A)-video.mp4</video>
+                <marquee>./images/Banjo-Kazooie (USA) (Rev A)-marquee.png</marquee>
+                <thumbnail>./images/Banjo-Kazooie (USA) (Rev A)-thumb.png</thumbnail>
+                <fanart>./images/Banjo-Kazooie (USA) (Rev A)-fanart.jpg</fanart>
+                <bezel>./images/Banjo-Kazooie (USA) (Rev A)-bezel.png</bezel>
+                <boxback>./images/Banjo-Kazooie (USA) (Rev A)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19980629T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Action / Adventure</genre>
+                <family>Banjo-Kazooie</family>
+                <players>1</players>
+                <md5>767d015db4ce450d5f0c55276eab1ca4</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104041" />
 	</game>
-	<game>
+	<game id="5411">
 		<path>./Banjo-Tooie (USA).zip</path>
 		<name>반조 투이</name>
 		<image>./snap/Banjo-Tooie (USA).png</image>
-		<video>./snap/Banjo-Tooie (USA).mp4</video>
-		<marquee>./marquee/Banjo-Tooie (USA).png</marquee>
-		<developer />
-		<publisher />
-		<genre />
-		<releasedate />
-		<players>1</players>
-		<desc />
+                <video>./videos/Banjo-Tooie (USA)-video.mp4</video>
+                <marquee>./images/Banjo-Tooie (USA)-marquee.png</marquee>
+                <thumbnail>./images/Banjo-Tooie (USA)-thumb.png</thumbnail>
+                <fanart>./images/Banjo-Tooie (USA)-fanart.jpg</fanart>
+                <bezel>./images/Banjo-Tooie (USA)-bezel.png</bezel>
+                <boxback>./images/Banjo-Tooie (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>20001120T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Action / Adventure</genre>
+                <family>Banjo-Kazooie</family>
+                <players>4</players>
+                <md5>ca0df738ae6a16bfb4b46d3860c159d9</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104132" />
 	</game>
 	<game>
 		<path>./Bomberman 64 (USA).zip</path>
@@ -508,18 +535,27 @@
 		<players>1</players>
 		<desc />
 	</game>
-	<game>
+	<game id="5438">
 		<path>./Kirby 64 - The Crystal Shards (USA).zip</path>
 		<name>별의 커비 64</name>
 		<image>./snap/Kirby 64 - The Crystal Shards (USA).png</image>
-		<video>./snap/Kirby 64 - The Crystal Shards (USA).mp4</video>
-		<marquee>./marquee/Kirby 64 - The Crystal Shards (USA).png</marquee>
-		<developer />
-		<publisher />
-		<genre />
-		<releasedate />
-		<players>1</players>
-		<desc />
+                <video>./videos/Kirby 64 - The Crystal Shards (USA)-video.mp4</video>
+                <marquee>./images/Kirby 64 - The Crystal Shards (USA)-marquee.png</marquee>
+                <thumbnail>./images/Kirby 64 - The Crystal Shards (USA)-thumb.png</thumbnail>
+                <fanart>./images/Kirby 64 - The Crystal Shards (USA)-fanart.jpg</fanart>
+                <bezel>./images/Kirby 64 - The Crystal Shards (USA)-bezel.png</bezel>
+                <boxback>./images/Kirby 64 - The Crystal Shards (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>20000101T000000</releasedate>
+                <developer>HAL Laboratory</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <family>Kirby</family>
+                <players>4</players>
+                <md5>968a49ea33d35c94a393a770a8117aa3</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104158" />
 	</game>
 	<game>
 		<path>./Bomberman 64 - The Second Attack! (USA).zip</path>
@@ -573,18 +609,27 @@
 		<players>1</players>
 		<desc />
 	</game>
-	<game>
+	<game id="5396">
 		<path>./Super Mario 64 (USA).zip</path>
 		<name>슈퍼 마리오 64</name>
 		<image>./snap/Super Mario 64 (USA).png</image>
-		<video>./snap/Super Mario 64 (USA).mp4</video>
-		<marquee>./marquee/Super Mario 64 (USA).png</marquee>
-		<developer />
-		<publisher />
-		<genre />
-		<releasedate />
-		<players>1</players>
-		<desc />
+                <video>./videos/Super Mario 64 (USA)-video.mp4</video>
+                <marquee>./images/Super Mario 64 (USA)-marquee.png</marquee>
+                <thumbnail>./images/Super Mario 64 (USA)-thumb.png</thumbnail>
+                <fanart>./images/Super Mario 64 (USA)-fanart.jpg</fanart>
+                <bezel>./images/Super Mario 64 (USA)-bezel.png</bezel>
+                <boxback>./images/Super Mario 64 (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19960926T000000</releasedate>
+                <developer>Nintendo</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <family>Super Mario Bros</family>
+                <players>1</players>
+                <md5>165a9558b7539507e73e7afecffb200c</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T112152" />
 	</game>
 	<game>
 		<path>./Starfox 64 1.1 (U).zip</path>
@@ -1115,4 +1160,314 @@
 		<lastplayed>20210125T133602</lastplayed>
 		<gametime>97</gametime>
 	</game>
+        <game id="5488">
+                <path>./Mischief Makers (USA) (Rev A).zip</path>
+                <name>Mischief Makers</name>
+                <desc>Mischief Makers is a game for the Nintendo 64 by the legendary developers at Treasure. It is a 2D side-scrolling platform game in which the protagonist uses her hands to grab, shake, and throw objects. There are 5 "worlds" in the game, each with about 10 levels.
+
+You are Marina Liteyears, assistant to professor Theo. The professor has been kidnapped, and some of King Aster's troops have defected. It is up to Marina, with some help from the troops still loyal to the king, to save the professor and defeat the evil empire.</desc>
+                <image>./images/Mischief Makers (USA) (Rev A)-image.png</image>
+                <video>./videos/Mischief Makers (USA) (Rev A)-video.mp4</video>
+                <marquee>./images/Mischief Makers (USA) (Rev A)-marquee.png</marquee>
+                <thumbnail>./images/Mischief Makers (USA) (Rev A)-thumb.png</thumbnail>
+                <fanart>./images/Mischief Makers (USA) (Rev A)-fanart.jpg</fanart>
+                <bezel>./images/Mischief Makers (USA) (Rev A)-bezel.png</bezel>
+                <boxback>./images/Mischief Makers (USA) (Rev A)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19971001T000000</releasedate>
+                <developer>Treasure</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Adventure</genre>
+                <players>1</players>
+                <md5>a54eeb1a4fd3768553d9223e5a3a63c6</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104107" />
+        </game>
+        <game id="5570">
+                <path>./Snowboard Kids (USA).zip</path>
+                <name>Snowboard Kids</name>
+                <desc>A racing game where you control one of five cutesy snowboarders competing against each other. Being a snowboarding game, each track is a downhill slalom with a ski lift at the bottom which takes you back to the start for however many laps a track has.
+
+The tracks are varied, the first few taking place on snowy mountainsides, while the latter taking you to wackier locales such as grassy countryside, a desert and a theme park. The money collected on the course or won at the end of the race can be spent to buy better boards, which differ in stats, or to collect items/weapons while racing. There are also stunts that can be performed while racing which earn money as well, and certain parts of each course encourage the player to do so.
+
+Other modes include stunt mode, shoot mode and speed mode, all focusing on a particular part of the gameplay from the main game, and a multiplayer mode where up to 4 players can race each other. There are also unlockables for dedicated players.</desc>
+                <image>./images/Snowboard Kids (USA)-image.png</image>
+                <video>./videos/Snowboard Kids (USA)-video.mp4</video>
+                <marquee>./images/Snowboard Kids (USA)-marquee.png</marquee>
+                <thumbnail>./images/Snowboard Kids (USA)-thumb.png</thumbnail>
+                <fanart>./images/Snowboard Kids (USA)-fanart.jpg</fanart>
+                <bezel>./images/Snowboard Kids (USA)-bezel.png</bezel>
+                <boxback>./images/Snowboard Kids (USA)-boxback.png</boxback>
+                <rating>0.85</rating>
+                <releasedate>19980315T000000</releasedate>
+                <developer>Atlus</developer>
+                <publisher>Atlus</publisher>
+                <genre>Sports / Skiing</genre>
+                <players>4</players>
+                <md5>14b72b59aa3efabf368779e6ebecdcab</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104249" />
+        </game>
+        <game id="5521">
+                <path>./SpaceStation Silicon Valley (USA).zip</path>
+                <name>Space Station Silicon Valley</name>
+                <desc>Long ago, scientists created a living space station, full of animals. After its launch into space, the station vanished, never to be seen again.
+
+Until now.
+
+The station has reappeared out of no-where, many years after its first launch, and is on a collision course with Earth. Two unlikely heroes (pilot and all-round ugly looking guy Dan and robot Evo) are now thrust with the mission to stop the station, and find out where it has been all this time.
+
+Sadly, not everything goes to plan, with their ship crashing into the station. Evo, the unlucky robot that he is, is thrown out of the ship and smashed into pieces. His only hope for survival is to attach his microchip into another host robot. Thankfully, underneath the wrecked ship is the remains of another robot, and with a quick fix Evo is now a robotic dog.
+
+As you enter the valley, you must contend with a host of other robots much like the dog, of all shapes and animal sizes. You can move Evo's chip from one animal to another to gain attributes and abilities, improving your chance of success to get past the killer penguins and rocket launching tigers.
+
+Aims of the game include the basic destruction of enemy robots, to sheep herding, controlling Evo the rat through a mini maze, and plenty more through 35 levels of insane 3rd person action.
+
+When the game was ported to PlayStation some of the bugs from the Nintendo 64 version were fixed.</desc>
+                <image>./images/SpaceStation Silicon Valley (USA)-image.png</image>
+                <video>./videos/SpaceStation Silicon Valley (USA)-video.mp4</video>
+                <marquee>./images/SpaceStation Silicon Valley (USA)-marquee.png</marquee>
+                <thumbnail>./images/SpaceStation Silicon Valley (USA)-thumb.png</thumbnail>
+                <fanart>./images/SpaceStation Silicon Valley (USA)-fanart.jpg</fanart>
+                <bezel>./images/SpaceStation Silicon Valley (USA)-bezel.png</bezel>
+                <boxback>./images/SpaceStation Silicon Valley (USA)-boxback.png</boxback>
+                <rating>0.9</rating>
+                <releasedate>19981021T000000</releasedate>
+                <developer>DMA Design</developer>
+                <publisher>Take 2 Interactive</publisher>
+                <genre>Platform</genre>
+                <players>1</players>
+                <md5>2745aaea6429880e19e605d4dce1de61</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104339" />
+        </game>
+        <game id="5401">
+                <path>./Mario Kart 64 (E) (V1.1) [!].zip</path>
+                <name>Mario Kart 64</name>
+                <desc>Mario Kart 64 races eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup. Zip through the dark caves and green hillsides of Donkey Kong's Jungle Parkway, cling to the sheer cliffs of Yoshi Valley and hustle over haunted Banshee Boardwalk before tackling the longest track in the game: neon-lit Rainbow Road.
+
+The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. You can gain even more speed by mastering the power slide technique or grabbing Super Star power-ups. Each kart has distinctive handling, acceleration and top speed capabilities. Light karts like Princess's smoothly steer through tight corners, but run the constant risk of getting flattened by heavy karts, like Donkey Kong's. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game's unique power-ups.</desc>
+                <image>./images/Mario Kart 64 (E) (V1.1) [!]-image.png</image>
+                <video>./videos/Mario Kart 64 (E) (V1.1) [!]-video.mp4</video>
+                <marquee>./images/Mario Kart 64 (E) (V1.1) [!]-marquee.png</marquee>
+                <thumbnail>./images/Mario Kart 64 (E) (V1.1) [!]-thumb.png</thumbnail>
+                <fanart>./images/Mario Kart 64 (E) (V1.1) [!]-fanart.jpg</fanart>
+                <bezel>./images/Mario Kart 64 (E) (V1.1) [!]-bezel.png</bezel>
+                <boxback>./images/Mario Kart 64 (E) (V1.1) [!]-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19970624T000000</releasedate>
+                <developer>Nintendo</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Sports</genre>
+                <family>Mario Kart</family>
+                <players>4</players>
+                <md5>2bb149a583fdefea96805f628fe42fd9</md5>
+                <lang>en</lang>
+                <region>eu</region>
+                <scrap name="ScreenScraper" date="20230101T104404" />
+        </game>
+        <game id="59517">
+                <path>./Tigger's Honey Hunt (USA).zip</path>
+                <name>Tigger's Honey Hunt</name>
+                <desc>Winnie the Pooh plans a party and therefore he needs honey. His friend Tigger promises to help him and starts searching for honey pots.
+
+Tigger's Honey Hunt is a platform action game in which the player guides Tigger through nine levels. In six levels the goal is to collect a predetermined minimum amount of honey pots in order to get access to the next level. In the other three levels there are  mini-games like Rock-Paper-Scissors, to play against other characters from Winnie the Pooh's world.
+
+Tigger is able to jump horizontally and vertically (even higher after he has learned special skills), use spider webs to jump to higher areas or to cross water or chasms with the help of turtles or levitating leaves. Beginning with three lives, Tigger needs to avoid being touched by dangerous creatures like bees or falling into chasms. When there are no lives left, Tigger restarts at the last checkpoint that has been passed.
+
+Additionally you can find secret areas with even more honey pots, collect pictures which you can later look at in your photo album and meet other characters who talk to you or need your help (e.g. finding Eeyore's lost tail).</desc>
+                <image>./images/Tigger's Honey Hunt (USA)-image.png</image>
+                <video>./videos/Tigger's Honey Hunt (USA)-video.mp4</video>
+                <marquee>./images/Tigger's Honey Hunt (USA)-marquee.png</marquee>
+                <thumbnail>./images/Tigger's Honey Hunt (USA)-thumb.png</thumbnail>
+                <fanart>./images/Tigger's Honey Hunt (USA)-fanart.jpg</fanart>
+                <bezel>./images/Tigger's Honey Hunt (USA)-bezel.png</bezel>
+                <boxback>./images/Tigger's Honey Hunt (USA)-boxback.png</boxback>
+                <rating>0.7</rating>
+                <releasedate>20001101T000000</releasedate>
+                <developer>Doki Denki</developer>
+                <publisher>Ubisoft</publisher>
+                <genre>Adventure</genre>
+                <family>Winnie the Pooh</family>
+                <players>2</players>
+                <md5>800e231deccd724d8b1f1f6820b8be90</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104427" />
+        </game>
+        <game id="5409">
+                <path>./Diddy Kong Racing (U) (M2) (V1.1) [!].zip</path>
+                <name>Diddy Kong Racing</name>
+                <desc>It's an island takeover when the evil space wizard, Wizpig, discovers Tiger Island!  After the islands prized racetracks become sealed up, Timber Tiger contacts his friend Diddy Kong to help him reclaim the racetracks and save the island before his parents return.  Along for the ride are the Kremling spy Krunch, Bumper Badger, Banjo (prior to meeting Kazooie in Banjo-Kazooie), pre-sweary Conker, Tiptup Turtle, and Pipsy Mouse.
+
+Diddy Kong Racing is a racing game with similarities to Mario Kart 64, in that you race with a variety of cheery racers while using weapons.  However, the similarities end there.  DKR includes an adventure mode, which features bosses, an overworld to explore, many hidden secrets, the addition of hovercrafts and planes, and a unique way of racing called the "Silver Coin Challenge".  In this mode, in addition to coming first, you must also find the eight Silver Coins deviously hidden throughout the courses (some in alternate paths).
+
+The game also features a strategic method of using weapons.  Each colored balloon on the track matches a specific weapon, and collecting the same type of balloon multiple times in a row powers it up (to a maximum of three times).  This gives the player the choice of snatching every balloon available and using it immediately, or storing the existing weapon, and using a more powerful version of it later.
+
+Up to four players can compete in the races, but in order to play new tracks, they must first be unlocked in the single player game.  There are also four battle modes of play - two standard deathmatch maps, a capture-the-flag style battle where you must nab eggs and hatch three of them in your home nest, and another where you must be the first to return ten bananas to your treasure chest (with the limitation of only being able to hold two at any one time).</desc>
+                <image>./images/Diddy Kong Racing (U) (M2) (V1.1) [!]-image.png</image>
+                <video>./videos/Diddy Kong Racing (U) (M2) (V1.1) [!]-video.mp4</video>
+                <marquee>./images/Diddy Kong Racing (U) (M2) (V1.1) [!]-marquee.png</marquee>
+                <thumbnail>./images/Diddy Kong Racing (U) (M2) (V1.1) [!]-thumb.png</thumbnail>
+                <fanart>./images/Diddy Kong Racing (U) (M2) (V1.1) [!]-fanart.jpg</fanart>
+                <bezel>./images/Diddy Kong Racing (U) (M2) (V1.1) [!]-bezel.png</bezel>
+                <boxback>./images/Diddy Kong Racing (U) (M2) (V1.1) [!]-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19971124T000000</releasedate>
+                <developer>Rareware</developer>
+                <publisher>Rareware</publisher>
+                <genre>Adventure</genre>
+                <players>4</players>
+                <md5>b31f8cca50f31acc9b999ed5b779d6ed</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104517" />
+        </game>
+        <game id="5592">
+                <path>./Ms. Pac-Man - Maze Madness (USA).zip</path>
+                <name>Ms. Pac-Man : Maze Madness</name>
+                <desc>Chomp your way through mystical worlds to save Pac-Land. Free the last worlds of Pac-Land fromt he horrid witch Mesmeralda. Videogame's favorite heroine is back to save the day!</desc>
+                <image>./images/Ms. Pac-Man - Maze Madness (USA)-image.png</image>
+                <video>./videos/Ms. Pac-Man - Maze Madness (USA)-video.mp4</video>
+                <marquee>./images/Ms. Pac-Man - Maze Madness (USA)-marquee.png</marquee>
+                <thumbnail>./images/Ms. Pac-Man - Maze Madness (USA)-thumb.png</thumbnail>
+                <fanart>./images/Ms. Pac-Man - Maze Madness (USA)-fanart.jpg</fanart>
+                <bezel>./images/Ms. Pac-Man - Maze Madness (USA)-bezel.png</bezel>
+                <boxback>./images/Ms. Pac-Man - Maze Madness (USA)-boxback.png</boxback>
+                <rating>0.7</rating>
+                <releasedate>20001112T000000</releasedate>
+                <developer>Namco</developer>
+                <publisher>Namco</publisher>
+                <genre>Action / Labyrinth</genre>
+                <family>Pac-Man</family>
+                <players>4</players>
+                <md5>7caf992661ae9008d556e880d72f1a2a</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104612" />
+        </game>
+        <game id="5460">
+                <path>./Tarzan (USA).zip</path>
+                <name>Tarzan</name>
+                <desc>We could call it a platform game if it wasn't 3D, but it still looks like a platform game. Much alike to "Lion King" only seeable made of polygons. This little arcade game puts you in a role of Tarzan, a soon-to-be king of the jungle, leads you to a bunch of quest levels where you can collect coins, map pieces, 'TARZAN' letters and other stuff, as well as call you monkey friend from time to time that'll give you a brief explanation of things flyin' around. After each completed level, there will be a brief animations that they've probably taken from Disney's cartoon.</desc>
+                <image>./images/Tarzan (USA)-image.png</image>
+                <video>./videos/Tarzan (USA)-video.mp4</video>
+                <marquee>./images/Tarzan (USA)-marquee.png</marquee>
+                <thumbnail>./images/Tarzan (USA)-thumb.png</thumbnail>
+                <fanart>./images/Tarzan (USA)-fanart.jpg</fanart>
+                <bezel>./images/Tarzan (USA)-bezel.png</bezel>
+                <boxback>./images/Tarzan (USA)-boxback.png</boxback>
+                <rating>0.9</rating>
+                <releasedate>20000131T000000</releasedate>
+                <developer>Eurocom</developer>
+                <publisher>Activision</publisher>
+                <genre>Platform</genre>
+                <players>1</players>
+                <md5>fb7d7d58e4e3cbd434db579aa4ef3f5e</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104636" />
+        </game>
+        <game id="5399">
+                <path>./Mario Party (USA).zip</path>
+                <name>Mario Party</name>
+                <desc>You know Mario can jump. You know he can kick Bowser's tail from here to the moon, but we bet you didn't realize that Mario is the biggest party animal on the face of the Earth. Nintendo is throwing the most insane bash to ever hit the N64, and you're invited. For the first time, you'll catch a glimpse of how Mario celebrates all of the victories he's had over the years.
+
+Mario Party is unlike any other game for the N64, and it just might be the best party game to ever hit the system. Mario Party is designed for 1 to 4 players, but it's not really a party unless you're playing with your pals. The festivities are based on a board game format, right down to the fact that players must roll a die to determine how many spaces to move. The fun starts when players land on different squares, because each space holds one of more than fifty different mini-games. These quick competitions determine who will earn coins and stars, and who will go home empty handed.
+
+ The mini-games are spread over eight different game boards, all of which are not immediately available. Some of the games pit every man or princess against the others, some are two-on-two, and others are even three against one. The games are simple, but remarkably fun to play. One challenge is loosely based on "Simon Says," another involves a two-on-two bobsled race, and one crazy game makes one player attempt to cross a rope while the other three do their best to shake the player off. You'll find skill games, racing games, puzzle games --basically any type of challenge you could imagine.
+
+A good portion of the actual game boards are animated, with hidden dangers and special challenges scattered everywhere. Mario, Luigi, Princess Peach, Donkey Kong, Bowser, Yoshi, and Wario are all invited to the party, and each character has his or her own game board.
+
+Mario Party is fun for only one player, but to get the most out of this party-in-a-pak, you should play with three other friends. It's definitely the kind of game that will keep you up till the wee hours of the morning, so you might want to start catching up on your sleep right away.</desc>
+                <image>./images/Mario Party (USA)-image.png</image>
+                <video>./videos/Mario Party (USA)-video.mp4</video>
+                <marquee>./images/Mario Party (USA)-marquee.png</marquee>
+                <thumbnail>./images/Mario Party (USA)-thumb.png</thumbnail>
+                <fanart>./images/Mario Party (USA)-fanart.jpg</fanart>
+                <bezel>./images/Mario Party (USA)-bezel.png</bezel>
+                <boxback>./images/Mario Party (USA)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19990208T000000</releasedate>
+                <developer>Hudson</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Board game</genre>
+                <family>Mario Party</family>
+                <players>4</players>
+                <md5>22d2815355f2be326aa4ab08976ea091</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104700" />
+        </game>
+        <game id="5424">
+                <path>./Yoshi's Story (USA) (En,Ja).zip</path>
+                <name>Yoshi Story</name>
+                <desc>Reclaim the Super Happy Tree to restore happiness! Baby Bowser has taken the Super Happy Tree and put a spell on Yoshi Island. It's up to a few remaining Yoshis to restore everything to its rightful place as they run, ground-pound, flutter-jump, throw eggs, and traverse a colorful and crafted storybook-looking world. Complete a course in Story Mode, and then best your high score in Trial Mode!</desc>
+                <image>./images/Yoshi's Story (USA) (En,Ja)-image.png</image>
+                <video>./videos/Yoshi's Story (USA) (En,Ja)-video.mp4</video>
+                <marquee>./images/Yoshi's Story (USA) (En,Ja)-marquee.png</marquee>
+                <thumbnail>./images/Yoshi's Story (USA) (En,Ja)-thumb.png</thumbnail>
+                <fanart>./images/Yoshi's Story (USA) (En,Ja)-fanart.jpg</fanart>
+                <bezel>./images/Yoshi's Story (USA) (En,Ja)-bezel.png</bezel>
+                <boxback>./images/Yoshi's Story (USA) (En,Ja)-boxback.png</boxback>
+                <rating>0.65</rating>
+                <releasedate>19971221T000000</releasedate>
+                <developer>Nintendo</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Platform</genre>
+                <players>1</players>
+                <md5>d3436319d51df291ba71a2e512ddb7b5</md5>
+                <lang>jp,en</lang>
+                <region>jp</region>
+                <scrap name="ScreenScraper" date="20230101T104543" />
+        </game>
+        <game id="5431">
+                <path>./Mario Tennis (USA).zip</path>
+                <name>Mario Tennis</name>
+                <desc>Choose your favourite Nintendo character and take to the world of tennis. Game types include ring shot (where you must shoot the ball through golden hoops that are suspended above the play area, gaining bonus points as you play), bomb tennis (simply put Tennis with Bombs) and Piranha Challenge (much like the tennis machines which chuck balls at you, but in this case they are replaced with Piranha plants). Of course, there is your normal tournament mode, with up to 4 players in on the action, and some crazy arenas, especially Bowser's Castle, which is suspended above a lava pit!</desc>
+                <image>./images/Mario Tennis (USA)-image.png</image>
+                <video>./videos/Mario Tennis (USA)-video.mp4</video>
+                <marquee>./images/Mario Tennis (USA)-marquee.png</marquee>
+                <thumbnail>./images/Mario Tennis (USA)-thumb.png</thumbnail>
+                <fanart>./images/Mario Tennis (USA)-fanart.jpg</fanart>
+                <bezel>./images/Mario Tennis (USA)-bezel.png</bezel>
+                <boxback>./images/Mario Tennis (USA)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>20000828T000000</releasedate>
+                <developer>Camelot Software</developer>
+                <publisher>Nintendo</publisher>
+                <genre>Sports / Tennis</genre>
+                <players>4</players>
+                <md5>8dfb2fac888368660b54e390fe9042f4</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T104313" />
+        </game>
+        <game id="5605">
+                <path>./Tom and Jerry in Fists of Furry (USA).zip</path>
+                <name>Tom and Jerry in Fists of Furry</name>
+                <desc>One-on-one fighting! Tag team tournaments! Just choose your character and then select the location. All the environments are modeled after scenes from your favorite Tom &amp; Jerry episodes. An "All-Star" line-up of characters such as Tom, Jerry, Butch, Spike, Tuffy, and Duckling help to make this the ultimate Tom &amp; Jerry experience! Weapons include shovels, bombs, red-hot pokers, tennis rackets, furniture and an assortment of fruit, plus there are countless other tricks, traps and surprises to be found. It doesn't get any better than this. So go to your corner, wait for the bell and come out fighting. Just keep an eye out behind you, because no one fights fair in this game!</desc>
+                <image>./images/Tom and Jerry in Fists of Furry (USA)-image.png</image>
+                <video>./videos/Tom and Jerry in Fists of Furry (USA)-video.mp4</video>
+                <marquee>./images/Tom and Jerry in Fists of Furry (USA)-marquee.png</marquee>
+                <thumbnail>./images/Tom and Jerry in Fists of Furry (USA)-thumb.png</thumbnail>
+                <fanart>./images/Tom and Jerry in Fists of Furry (USA)-fanart.jpg</fanart>
+                <bezel>./images/Tom and Jerry in Fists of Furry (USA)-bezel.png</bezel>
+                <boxback>./images/Tom and Jerry in Fists of Furry (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>20001112T000000</releasedate>
+                <developer>VIS Entertainment</developer>
+                <publisher>Ubisoft</publisher>
+                <genre>Fight</genre>
+                <family>Tom and Jerry</family>
+                <players>2</players>
+                <md5>9dcdfab5fa65efe5e18652e59a116e64</md5>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230101T112216" />
+        </game>
+
 </gameList>
