@@ -810,7 +810,7 @@
 	</game>
 	<game>
 		<path>./cps1/dino.zip</path>
-		<name>캐딜락 & 다이노소어 (930201 세계판)</name>
+		<name>캐딜락 & 다이노소어 (930201 세계판), 한국어 패치</name>
 		<image>./cps1/boxart/dino.png</image>
 		<thumbnail>../thumbnail/none.png</thumbnail>
 		<video>./cps1/snap/dino.mp4</video>
