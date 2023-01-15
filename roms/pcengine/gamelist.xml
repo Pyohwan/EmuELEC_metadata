@@ -3758,4 +3758,48 @@
 		<lastplayed>20210125T141426</lastplayed>
 		<gametime>404</gametime>
 	</game>
+        <!--------------------------------------------------------
+                터보 그래픽스 16 (북미판)
+        ---------------------------------------------------------->
+        <folder>
+                <path>./pce_usa</path>
+                <name>터보그래픽스 16 (북미판)</name>
+                <image>./boxart/turbografx.png</image>
+        </folder>
+        <game>
+                <path>./pce_usa/Bonk's Adventure (USA).zip</path>
+                <name>봉크스 어드벤처</name>
+                <image>./pce_usa/boxart/Bonk's Adventure (USA).png</image>
+                <video>./pce_usa/snap/Bonk's Adventure (USA).mp4</video>
+        </game>
+        <game>
+                <path>./pce_usa/Bonk's Revenge (USA).zip</path>
+                <name>봉크스 리벤지</name>
+                <image>./pce_usa/boxart/Bonk's Revenge (USA).png</image>
+                <video>./pce_usa/snap/Bonk's Revenge (USA).mp4</video>
+        </game>
+        <game>
+                <path>./pce_usa/Bonk 3 - Bonk's Big Adventure (USA).zip</path>
+                <name>봉크 3 - 봉크스 빅 어드벤처</name>
+                <image>./pce_usa/boxart/Bonk 3 - Bonk's Big Adventure (USA).png</image>
+                <video>./pce_usa/snap/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+        </game>
+        <game>
+                <path>./pce_usa/Legend of Hero Tonma (USA).zip</path>
+                <name>레전드 오브 히어로 톤마</name>
+                <image>./pce_usa/boxart/Legend of Hero Tonma (USA).png</image>
+                <video>./pce_usa/snap/Legend of Hero Tonma (USA).mp4</video>
+        </game>
+        <game>
+                <path>./pce_usa/Magical Chase (USA).zip</path>
+                <name>매지컬 체이스</name>
+                <image>./pce_usa/boxart/Magical Chase (USA).png</image>
+                <video>./pce_usa/snap/Magical Chase (USA).mp4</video>
+        </game>
+        <game>
+                <path>./pce_usa/Parasol Stars - The Story of Bubble Bobble III (USA).zip</path>
+                <name>파라솔 스타즈 - 더 스토리 오브 버블 보블 III</name>
+                <image>./pce_usa/boxart/Parasol Stars - The Story of Bubble Bobble III (USA).png</image>
+                <video>./pce_usa/snap/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
+        </game>
 </gameList>
