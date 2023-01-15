@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+	<game>
+		<path>./Aa_Megami_Sama.m3u</path>
+		<name>아아 여신님</name>
+		<image>./boxart/Aa_Megami_Sama.png</image>
+		<video>./snap/Aa_Megami_Sama.mp4</video>
+	</game>
+	<game>
+		<path>./Akazukin_Chacha-Osawagase_Panic_Race_JAP.chd</path>
+		<name>빨간 망토 차차 - 요란! 패닉 레이스!</name>
+		<image>./boxart/Akazukin_Chacha-Osawagase_Panic_Race.png</image>
+		<video>./snap/Akazukin_Chacha-Osawagase_Panic_Race.mp4</video>
+	</game>
+	<game>
+		<path>./Angelique_Special_JAP.chd</path>
+		<name>안젤리크 스페셜</name>
+		<image>./boxart/Angelique_Special.png</image>
+		<video>./snap/Angelique_Special.mp4</video>
+	</game>
+	<game>
+		<path>./Angelique_Special_2_JAP.chd</path>
+		<name>안젤리크 스페셜 2</name>
+		<image>./boxart/Angelique_Special_2.png</image>
+		<video>./snap/Angelique_Special_2.mp4</video>
+	</game>
+	<game>
+		<path>./Angelique_Tenkuu_no_Requim_JAP.chd</path>
+		<name>안젤리크 - 천공의 진혼곡</name>
+		<image>./boxart/Angelique_Tenkuu_no_Requim.png</image>
+		<video>./snap/Angelique_Tenkuu_no_Requim.mp4</video>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_1_JAP.chd</path>
+		<name>아니메 프릭 FX Vol.1</name>
+		<image>./boxart/Anime_Freak_FX_Vol_1.png</image>
+		<video>./snap/Anime_Freak_FX_Vol_1.mp4</video>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_2_JAP.chd</path>
+		<name>아니메 프릭 FX Vol.2</name>
+		<image>./boxart/Anime_Freak_FX_Vol_2.png</image>
+		<video>./snap/Anime_Freak_FX_Vol_2.mp4</video>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_3_JAP.chd</path>
+		<name>아니메 프릭 FX Vol.3</name>
+		<image>./boxart/Anime_Freak_FX_Vol_3.png</image>
+		<video>./snap/Anime_Freak_FX_Vol_3.mp4</video>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_4_JAP.chd</path>
+		<name>아니메 프릭 FX Vol.4</name>
+		<image>./boxart/Anime_Freak_FX_Vol_4.png</image>
+		<video>./snap/Anime_Freak_FX_Vol_4.mp4</video>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_5.m3u</path>
+		<name>아니메 프릭 FX Vol.5</name>
+		<image>./boxart/Anime_Freak_FX_Vol_5.png</image>
+		<video>./snap/Anime_Freak_FX_Vol_5.mp4</video>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_6.m3u</path>
+		<name>아니메 프릭 FX Vol.6</name>
+		<image>./boxart/Anime_Freak_FX_Vol_6.png</image>
+		<video>./snap/Anime_Freak_FX_Vol_6.mp4</video>
+	</game>
+	<game>
+		<path>./Arubarea_no_Otome_JAP.chd</path>
+		<name>알바레아의 아가씨</name>
+		<image>./boxart/Arubarea_no_Otome.png</image>
+		<video>./snap/Arubarea_no_Otome.mp4</video>
+	</game>
+	<game>
+		<path>./Battle_Heat_JAP.chd</path>
+		<name>배틀 히트</name>
+		<image>./boxart/Battle_Heat.png</image>
+		<video>./snap/Battle_Heat.mp4</video>
+	</game>
+	<game>
+		<path>./Blue_Breaker-Ken_Yorimo_Hohoemi_JAP.chd</path>
+		<name>블루 브레이커 - 검보다 미소를</name>
+		<image>./boxart/Blue_Breaker-Ken_Yorimo_Hohoemi.png</image>
+		<video>./snap/Blue_Breaker-Ken_Yorimo_Hohoemi.mp4</video>
+	</game>
+	<game>
+		<path>./Boundary_Gate-Daughter_of_Kingdom_JAP.chd</path>
+		<name>바운더리 게이트 - 도터 오브 킹덤</name>
+		<image>./boxart/Boundary_Gate-Daughter_of_Kingdom.png</image>
+		<video>./snap/Boundary_Gate-Daughter_of_Kingdom.mp4</video>
+	</game>
+	<game>
+		<path>./Can_Can_Bunny_Extra_DX_JAP.chd</path>
+		<name>캉 캉 바니 엑스트라 DX</name>
+		<image>./boxart/Can_Can_Bunny_Extra_DX.png</image>
+		<video>./snap/Can_Can_Bunny_Extra_DX.mp4</video>
+	</game>
+	<game>
+		<path>./Chip_Chan_Kick_JAP.chd</path>
+		<name>칩짱 킥!</name>
+		<image>./boxart/Chip_Chan_Kick.png</image>
+		<video>./snap/Chip_Chan_Kick.mp4</video>
+	</game>
+	<game>
+		<path>./Comic_Road_JAP.chd</path>
+		<name>코믹 로드</name>
+		<image>./boxart/Comic_Road.png</image>
+		<video>./snap/Comic_Road.mp4</video>
+	</game>
+	<game>
+		<path>./Cutey_Honey_FX_JAP.chd</path>
+		<name>큐티 하니 FX</name>
+		<image>./boxart/Cutey_Honey_FX.png</image>
+		<video>./snap/Cutey_Honey_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Der_Langrisser_FX_JAP.chd</path>
+		<name>데어 랑그릿사 FX</name>
+		<image>./boxart/Der_Langrisser_FX.png</image>
+		<video>./snap/Der_Langrisser_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Doukyuusei_2_JAP.chd</path>
+		<name>동급생 2</name>
+		<image>./boxart/Doukyuusei_2.png</image>
+		<video>./snap/Doukyuusei_2.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon_Knight_4_JAP.chd</path>
+		<name>드래곤 나이트 4</name>
+		<image>./boxart/Dragon_Knight_4.png</image>
+		<video>./snap/Dragon_Knight_4.mp4</video>
+	</game>
+	<game>
+		<path>./Farland_Story_FX_JAP.chd</path>
+		<name>파랜드 스토리 FX</name>
+		<image>./boxart/Farland_Story_FX.png</image>
+		<video>./snap/Farland_Story_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Fire_Woman_Matoigumi_JAP.chd</path>
+		<name>파이어 우먼 - 전조</name>
+		<image>./boxart/Fire_Woman_Matoigumi.png</image>
+		<video>./snap/Fire_Woman_Matoigumi.mp4</video>
+	</game>
+	<game>
+		<path>./First_Kiss_Monogatari_JAP.chd</path>
+		<name>퍼스트 키스 이야기</name>
+		<image>./boxart/First_Kiss_Monogatari.png</image>
+		<video>./snap/First_Kiss_Monogatari.mp4</video>
+	</game>
+	<game>
+		<path>./Fushigi_no_Kuni_no_Angelique_JAP.chd</path>
+		<name>이상한 나라의 알젤리크</name>
+		<image>./boxart/Fushigi_no_Kuni_no_Angelique.png</image>
+		<video>./snap/Fushigi_no_Kuni_no_Angelique.mp4</video>
+	</game>
+	<game>
+		<path>./Ginga_Ojousama_Densetsu_Yuna_FX-Kanashimi_no_Siren_JAP.chd</path>
+		<name>은하 아가씨 전설 유나 FX - 비애의 세이렌</name>
+		<image>./boxart/Ginga_Ojousama_Densetsu_Yuna_FX-Kanashimi_no_Siren.png</image>
+		<video>./snap/Ginga_Ojousama_Densetsu_Yuna_FX-Kanashimi_no_Siren.mp4</video>
+	</game>
+	<game>
+		<path>./Hataraku_Shoujo_Tekipaki_Working_Love_FX_JAP.chd</path>
+		<name>일하는 소녀 테키파키 워킹 러브 FX</name>
+		<image>./boxart/Hataraku_Shoujo_Tekipaki_Working_Love_FX.png</image>
+		<video>./snap/Hataraku_Shoujo_Tekipaki_Working_Love_FX.mp4</video>
+	</game>
+	<game>
+		<path>./J_B_Harold-Blue_Chicago_Blues.m3u</path>
+		<name>J.B. 해롤드 - 블루 시카고 블루스</name>
+		<image>./boxart/J_B_Harold-Blue_Chicago_Blues.png</image>
+		<video>./snap/J_B_Harold-Blue_Chicago_Blues.mp4</video>
+	</game>
+	<game>
+		<path>./Kishin_Douji_Zenki_FX-Vajura_Fight_JAP.chd</path>
+		<name>귀신동자 젠키 FX - 금강염투</name>
+		<image>./boxart/Kishin_Douji_Zenki_FX-Vajura_Fight.png</image>
+		<video>./snap/Kishin_Douji_Zenki_FX-Vajura_Fight.mp4</video>
+	</game>
+	<game>
+		<path>./Kokuu_Hyouryuu_Nirgends_JAP.chd</path>
+		<name>허공표류 닐겐츠</name>
+		<image>./boxart/Kokuu_Hyouryuu_Nirgends.png</image>
+		<video>./snap/Kokuu_Hyouryuu_Nirgends.mp4</video>
+	</game>
+	<game>
+		<path>./Konpeki_no_Kantai_JAP.chd</path>
+		<name>감벽의 함대</name>
+		<image>./boxart/Konpeki_no_Kantai.png</image>
+		<video>./snap/Konpeki_no_Kantai.mp4</video>
+	</game>
+	<game>
+		<path>./Last_Imperial_Prince.m3u</path>
+		<name>라스트 임페리얼 프린스</name>
+		<image>./boxart/Last_Imperial_Prince.png</image>
+		<video>./snap/Last_Imperial_Prince.mp4</video>
+	</game>
+	<game>
+		<path>./Lunatic_Dawn_FX_JAP.chd</path>
+		<name>루나틱 돈 FX</name>
+		<image>./boxart/Lunatic_Dawn_FX.png</image>
+		<video>./snap/Lunatic_Dawn_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong_Gokuu_Tenjiku_JAP.chd</path>
+		<name>마작오공 천축</name>
+		<image>./boxart/Mahjong_Gokuu_Tenjiku.png</image>
+		<video>./snap/Mahjong_Gokuu_Tenjiku.mp4</video>
+	</game>
+	<game>
+		<path>./Makeruna_Makendou_Z_JAP.chd</path>
+		<name>지지마라! 마검도 Z</name>
+		<image>./boxart/Makeruna_Makendou_Z.png</image>
+		<video>./snap/Makeruna_Makendou_Z.mp4</video>
+	</game>
+	<game>
+		<path>./Megami_Tengoku_II_JAP.chd</path>
+		<name>여신천국 II</name>
+		<image>./boxart/Megami_Tengoku_II.png</image>
+		<video>./snap/Megami_Tengoku_II.mp4</video>
+	</game>
+	<game>
+		<path>./Minimum_Nanonic_JAP.chd</path>
+		<name>미니멈 나노믹</name>
+		<image>./boxart/Minimum_Nanonic.png</image>
+		<video>./snap/Minimum_Nanonic.mp4</video>
+	</game>
+	<game>
+		<path>./Miraculum-The_Last_Revelation_JAP.chd</path>
+		<name>미라쿨룸 - 더 라스트 레벨레이션</name>
+		<image>./boxart/Miraculum-The_Last_Revelation.png</image>
+		<video>./snap/Miraculum-The_Last_Revelation.mp4</video>
+	</game>
+	<game>
+		<path>./Ojousama_Sousamou_JAP.chd</path>
+		<name>아가씨 수사망</name>
+		<image>./boxart/Ojousama_Sousamou.png</image>
+		<video>./snap/Ojousama_Sousamou.mp4</video>
+	</game>
+	<game>
+		<path>./Pachio-Kun_FX-Maboroshi_no_Shima_Daikessen_JAP.chd</path>
+		<name>파치오군 FX - 환상의 섬 대결전</name>
+		<image>./boxart/Pachio-Kun_FX-Maboroshi_no_Shima_Daikessen.png</image>
+		<video>./snap/Pachio-Kun_FX-Maboroshi_no_Shima_Daikessen.mp4</video>
+	</game>
+	<game>
+		<path>./Pia_Carrot_e_Youkoso_JAP.chd</path>
+		<name>피아 캐롯에 어서오세요!!</name>
+		<image>./boxart/Pia_Carrot_e_Youkoso.png</image>
+		<video>./snap/Pia_Carrot_e_Youkoso.mp4</video>
+	</game>
+	<game>
+		<path>./Power_Dolls_FX_JAP.chd</path>
+		<name>파워 돌스 FX</name>
+		<image>./boxart/Power_Dolls_FX.png</image>
+		<video>./snap/Power_Dolls_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Return_to_Zork_JAP.chd</path>
+		<name>리턴 투 조크</name>
+		<image>./boxart/Return_to_Zork.png</image>
+		<video>./snap/Return_to_Zork.mp4</video>
+	</game>
+	<game>
+		<path>./Ruruli_Ra_Rura_JAP.chd</path>
+		<name>루루리 라 루라</name>
+		<image>./boxart/Ruruli_Ra_Rura.png</image>
+		<video>./snap/Ruruli_Ra_Rura.mp4</video>
+	</game>
+	<game>
+		<path>./Shanghai-Banri_no_Choujou_JAP.chd</path>
+		<name>상해 - 만리장성</name>
+		<image>./boxart/Shanghai-Banri_no_Choujou.png</image>
+		<video>./snap/Shanghai-Banri_no_Choujou.mp4</video>
+	</game>
+	<game>
+		<path>./Sotsugyou_II_FX_Neo_Generation_JAP.chd</path>
+		<name>졸업 II - 네오 제네레이션</name>
+		<image>./boxart/Sotsugyou_II_FX_Neo_Generation.png</image>
+		<video>./snap/Sotsugyou_II_FX_Neo_Generation.mp4</video>
+	</game>
+	<game>
+		<path>./Sotsugyou_R-Graduation_Real_JAP.chd</path>
+		<name>졸업 R - 그래쥬에이션 리얼</name>
+		<image>./boxart/Sotsugyou_R-Graduation_Real.png</image>
+		<video>./snap/Sotsugyou_R-Graduation_Real.mp4</video>
+	</game>
+	<game>
+		<path>./Sparkling_Feather_JAP.chd</path>
+		<name>스파클링 페더</name>
+		<image>./boxart/Sparkling_Feather.png</image>
+		<video>./snap/Sparkling_Feather.mp4</video>
+	</game>
+	<game>
+		<path>./Super_Power_League_FX_JAP.chd</path>
+		<name>슈퍼 파워 리그 FX</name>
+		<image>./boxart/Super_Power_League_FX.png</image>
+		<video>./snap/Super_Power_League_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Super_Real_Majong_P_V_FX_JAP.chd</path>
+		<name>슈퍼 리얼 마작 P.V FX</name>
+		<image>./boxart/Super_Real_Majong_P_V_FX.png</image>
+		<video>./snap/Super_Real_Majong_P_V_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Team_Innocent-The_Point_of_No_Return_JAP.chd</path>
+		<name>팀 이노센트 - 더 포인트 오브 노 리턴</name>
+		<image>./boxart/Team_Innocent-The_Point_of_No_Return.png</image>
+		<video>./snap/Team_Innocent-The_Point_of_No_Return.mp4</video>
+	</game>
+	<game>
+		<path>./Tenchi_Muyo_Ryououki_FX.m3u</path>
+		<name>천지무용! 양황귀 FX</name>
+		<image>./boxart/Tenchi_Muyo_Ryououki_FX.png</image>
+		<video>./snap/Tenchi_Muyo_Ryououki_FX.mp4</video>
+	</game>
+	<game>
+		<path>./Tengai_Makyu-Dennou_Karakuri_Kakutouden_JAP.chd</path>
+		<name>천외마경 - 전뇌낙조격투전</name>
+		<image>./boxart/Tengai_Makyu-Dennou_Karakuri_Kakutouden.png</image>
+		<video>./snap/Tengai_Makyu-Dennou_Karakuri_Kakutouden.mp4</video>
+	</game>
+	<game>
+		<path>./Tokimeki_Card_Paradise-Koi_no_Royal_Straight_Flush_JAP.chd</path>
+		<name>두근두근 카드 파라다이스 - 사랑의 로열 스트레이트 플러쉬</name>
+		<image>./boxart/Tokimeki_Card_Paradise-Koi_no_Royal_Straight_Flush.png</image>
+		<video>./snap/Tokimeki_Card_Paradise-Koi_no_Royal_Straight_Flush.mp4</video>
+	</game>
+	<game>
+		<path>./Tonari_no_Princess_Rolfee_JAP.chd</path>
+		<name>이웃의 프린세스 롤피!</name>
+		<image>./boxart/Tonari_no_Princess_Rolfee.png</image>
+		<video>./snap/Tonari_no_Princess_Rolfee.mp4</video>
+	</game>
+	<game>
+		<path>./Tyoushin_Heiki_Zeroigar_JAP.chd</path>
+		<name>초신병기 제로이가</name>
+		<image>./boxart/Tyoushin_Heiki_Zeroigar.png</image>
+		<video>./snap/Tyoushin_Heiki_Zeroigar.mp4</video>
+	</game>
+	<game>
+		<path>./Voice_Paradise.m3u</path>
+		<name>보이스 파라다이스</name>
+		<image>./boxart/Voice_Paradise.png</image>
+		<video>./snap/Voice_Paradise.mp4</video>
+	</game>
+	<game>
+		<path>./Wakusei_Koukitai_Little_Cats_JAP.chd</path>
+		<name>혹성공기대 - 리틀 캣츠</name>
+		<image>./boxart/Wakusei_Koukitai_Little_Cats.png</image>
+		<video>./snap/Wakusei_Koukitai_Little_Cats.mp4</video>
+	</game>
+	<game>
+		<path>./Zen_Nihon_Joshi_Pro_Wrestling-Queen_of_Queens.m3u</path>
+		<name>전 일본 여자 프로레슬링 - 퀸 오브 퀸즈</name>
+		<image>./boxart/Zen_Nihon_Joshi_Pro_Wrestling-Queen_of_Queens.png</image>
+		<video>./snap/Zen_Nihon_Joshi_Pro_Wrestling-Queen_of_Queens.mp4</video>
+	</game>
+	<game>
+		<path>./Zoku_Hatsukoi_Monogatari-Shuugaku_Ryokou.m3u</path>
+		<name>속 첫사랑 이야기 - 수학여행</name>
+		<image>./boxart/Zoku_Hatsukoi_Monogatari-Shuugaku_Ryokou.png</image>
+		<video>./snap/Zoku_Hatsukoi_Monogatari-Shuugaku_Ryokou.mp4</video>
+	</game>
+	<game>
+		<path>./Aa_Megami_Sama_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Aa_Megami_Sama_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_5_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_5_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_6_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Anime_Freak_FX_Vol_6_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./J_B_Harold-Blue_Chicago_Blues_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./J_B_Harold-Blue_Chicago_Blues_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Last_Imperial_Prince_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Last_Imperial_Prince_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Tenchi_Muyo_Ryououki_FX_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Tenchi_Muyo_Ryououki_FX_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Voice_Paradise_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Voice_Paradise_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Zen_Nihon_Joshi_Pro_Wrestling-Queen_of_Queens_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Zen_Nihon_Joshi_Pro_Wrestling-Queen_of_Queens_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Zoku_Hatsukoi_Monogatari-Shuugaku_Ryokou_Disc-1_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Zoku_Hatsukoi_Monogatari-Shuugaku_Ryokou_Disc-2_JAP.chd</path>
+		<hidden>true</hidden>
+	</game>
+</gameList>
