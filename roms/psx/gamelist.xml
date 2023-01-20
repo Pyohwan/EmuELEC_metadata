@@ -1,0 +1,596 @@
+<?xml version="1.0"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game>
+		<path>./Need for Speed III - Hot Pursuit.PBP</path>
+		<name>니드 포 스피드 III: 핫 퍼슈트</name>
+		<image>./snap/Need for Speed III - Hot Pursuit.png</image>
+		<video>./snap/Need for Speed III - Hot Pursuit.mp4</video>
+		<marquee>./marquee/Need for Speed III - Hot Pursuit.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Double Dragon.pbp</path>
+		<name>더블드래곤</name>
+		<image>./snap/Double Dragon.png</image>
+		<video>./snap/Double Dragon.mp4</video>
+		<marquee>./marquee/Double Dragon.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Bloody Roar II.PBP</path>
+		<name>동물철권 2</name>
+		<image>./snap/Bloody Roar II.png</image>
+		<video>./snap/Bloody Roar II.mp4</video>
+		<marquee>./marquee/Bloody Roar II.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Duke Nukem - Total Meltdown.PBP</path>
+		<name>듀크 뉴켐</name>
+		<image>./snap/Duke Nukem - Total Meltdown.png</image>
+		<video>./snap/Duke Nukem - Total Meltdown.mp4</video>
+		<marquee>./marquee/Duke Nukem - Total Meltdown.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Road Rash - Jailbreak.PBP</path>
+		<name>로드 러쉬: 제일브레이크</name>
+		<image>./snap/Road Rash - Jailbreak.png</image>
+		<video>./snap/Road Rash - Jailbreak.mp4</video>
+		<marquee>./marquee/Road Rash - Jailbreak.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./MegaMan 8.PBP</path>
+		<name>록맨 8</name>
+		<image>./snap/MegaMan 8.png</image>
+		<video>./snap/MegaMan 8.mp4</video>
+		<marquee>./marquee/MegaMan 8.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./MegaMan X4.PBP</path>
+		<name>록맨 X4</name>
+		<image>./snap/MegaMan X4.png</image>
+		<video>./snap/MegaMan X4.mp4</video>
+		<marquee>./marquee/MegaMan X4.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./MegaMan X5.PBP</path>
+		<name>록맨 X5</name>
+		<image>./snap/MegaMan X5.png</image>
+		<video>./snap/MegaMan X5.mp4</video>
+		<marquee>./marquee/MegaMan X5.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./MegaMan X6.PBP</path>
+		<name>록맨 X6</name>
+		<image>./snap/MegaMan X6.png</image>
+		<video>./snap/MegaMan X6.mp4</video>
+		<marquee>./marquee/MegaMan X6.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Rage Racer.PBP</path>
+		<name>릿지 레이서</name>
+		<image>./snap/Rage Racer.png</image>
+		<video>./snap/Rage Racer.mp4</video>
+		<marquee>./marquee/Rage Racer.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Marvel vs. Capcom - Clash of the Super Heroes.PBP</path>
+		<name>마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈</name>
+		<image>./snap/Marvel vs. Capcom - Clash of the Super Heroes.png</image>
+		<video>./snap/Marvel vs. Capcom - Clash of the Super Heroes.mp4</video>
+		<marquee>./marquee/Marvel vs. Capcom - Clash of the Super Heroes.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Marvel Super Heroes vs. Street Fighter (USA).pbp</path>
+		<name>마블 슈퍼 히어로즈 VS 스트리트 파이터</name>
+		<image>./snap/Marvel Super Heroes vs. Street Fighter (USA).png</image>
+		<video>./snap/Marvel Super Heroes vs. Street Fighter (USA).mp4</video>
+		<marquee>./marquee/Marvel Super Heroes vs. Street Fighter (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Medal of Honor - Underground.PBP</path>
+		<name>메달 오브 아너: 언더그라운드</name>
+		<image>./snap/Medal of Honor - Underground.png</image>
+		<video>./snap/Medal of Honor - Underground.mp4</video>
+		<marquee>./marquee/Medal of Honor - Underground.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mortal Kombat 4.pbp</path>
+		<name>모탈컴뱃 4</name>
+		<image>./snap/Mortal Kombat 4.png</image>
+		<video>./snap/Mortal Kombat 4.mp4</video>
+		<marquee>./marquee/Mortal Kombat 4.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Mortal Kombat Trilogy.PBP</path>
+		<name>모탈컴뱃 트릴로지</name>
+		<image>./snap/Mortal Kombat Trilogy.png</image>
+		<video>./snap/Mortal Kombat Trilogy.mp4</video>
+		<marquee>./marquee/Mortal Kombat Trilogy.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Darkstalkers 3 - Jedah's Damnation.PBP</path>
+		<name>뱀파이어 세이비어</name>
+		<image>./snap/Darkstalkers 3 - Jedah's Damnation.png</image>
+		<video>./snap/Darkstalkers 3 - Jedah's Damnation.mp4</video>
+		<marquee>./marquee/Darkstalkers 3 - Jedah's Damnation.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Vigilante 8 - 2nd Offense.PBP</path>
+		<name>비질란테8 세컨드 오펜스</name>
+		<image>./snap/Vigilante 8 - 2nd Offense.png</image>
+		<video>./snap/Vigilante 8 - 2nd Offense.mp4</video>
+		<marquee>./marquee/Vigilante 8 - 2nd Offense.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Street Fighter EX Plus Alpha.PBP</path>
+		<name>스트리트 파이터 EX 플러스 알파</name>
+		<image>./snap/Street Fighter EX Plus Alpha.png</image>
+		<video>./snap/Street Fighter EX Plus Alpha.mp4</video>
+		<marquee>./marquee/Street Fighter EX Plus Alpha.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Street Fighter EX2 Plus.PBP</path>
+		<name>스트리트 파이터 EX2 플러스</name>
+		<image>./snap/Street Fighter EX2 Plus.png</image>
+		<video>./snap/Street Fighter EX2 Plus.mp4</video>
+		<marquee>./marquee/Street Fighter EX2 Plus.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Spider-Man.PBP</path>
+		<name>스파이더맨</name>
+		<image>./snap/Spider-Man.png</image>
+		<video>./snap/Spider-Man.mp4</video>
+		<marquee>./marquee/Spider-Man.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Alundra 2.PBP</path>
+		<name>아란드라 2 - 악마 진화의 수수께끼</name>
+		<image>./snap/Alundra 2.png</image>
+		<video>./snap/Alundra 2.mp4</video>
+		<marquee>./marquee/Alundra 2.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Castlevania Chronicles (USA).PBP</path>
+		<name>악마성 드라큐라 연대기</name>
+		<image>./snap/Castlevania Chronicles (USA).png</image>
+		<video>./snap/Castlevania Chronicles (USA).mp4</video>
+		<marquee>./marquee/Castlevania Chronicles (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Castlevania - Symphony of the Night.PBP</path>
+		<name>악마성 드라큐라 월하의 야상곡</name>
+		<image>./snap/Castlevania - Symphony of the Night.png</image>
+		<video>./snap/Castlevania - Symphony of the Night.mp4</video>
+		<marquee>./marquee/Castlevania - Symphony of the Night.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./R-Types.PBP</path>
+		<name>알타입</name>
+		<image>./snap/R-Types.png</image>
+		<video>./snap/R-Types.mp4</video>
+		<marquee>./marquee/R-Types.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./X-Men - Mutant Academy.PBP</path>
+		<name>엑스맨: 뮤턴트 아카데미</name>
+		<image>./snap/X-Men - Mutant Academy.png</image>
+		<video>./snap/X-Men - Mutant Academy.mp4</video>
+		<marquee>./marquee/X-Men - Mutant Academy.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tekken.PBP</path>
+		<name>철권</name>
+		<image>./snap/Tekken.png</image>
+		<video>./snap/Tekken.mp4</video>
+		<marquee>./marquee/Tekken.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tekken 2.PBP</path>
+		<name>철권 2</name>
+		<image>./snap/Tekken 2.png</image>
+		<video>./snap/Tekken 2.mp4</video>
+		<marquee>./marquee/Tekken 2.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tekken 3.PBP</path>
+		<name>철권 3</name>
+		<image>./snap/Tekken 3.png</image>
+		<video>./snap/Tekken 3.mp4</video>
+		<marquee>./marquee/Tekken 3.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Capcom vs. SNK - Millennium Fight 2000 Pro.PBP</path>
+		<name>캡콤 VS SNK 밀레니엄 파이트 2000 프로</name>
+		<image>./snap/Capcom vs. SNK - Millennium Fight 2000 Pro.png</image>
+		<video>./snap/Capcom vs. SNK - Millennium Fight 2000 Pro.mp4</video>
+		<marquee>./marquee/Capcom vs. SNK - Millennium Fight 2000 Pro.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Crash Bash.pbp</path>
+		<name>크래쉬 배쉬</name>
+		<image>./snap/Crash Bash.png</image>
+		<video>./snap/Crash Bash.mp4</video>
+		<marquee>./marquee/Crash Bash.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Crash Bandicoot.PBP</path>
+		<name>크래쉬 밴디쿳</name>
+		<image>./snap/Crash Bandicoot.png</image>
+		<video>./snap/Crash Bandicoot.mp4</video>
+		<marquee>./marquee/Crash Bandicoot.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Crash Bandicoot 2 - Cortex Strikes Back.PBP</path>
+		<name>크래쉬 밴디쿳 2: 코텍스의 역습</name>
+		<image>./snap/Crash Bandicoot 2 - Cortex Strikes Back.png</image>
+		<video>./snap/Crash Bandicoot 2 - Cortex Strikes Back.mp4</video>
+		<marquee>./marquee/Crash Bandicoot 2 - Cortex Strikes Back.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Crash Bandicoot 3 - Warped.PBP</path>
+		<name>크래쉬 밴디쿳: 워프드</name>
+		<image>./snap/Crash Bandicoot 3 - Warped.png</image>
+		<video>./snap/Crash Bandicoot 3 - Warped.mp4</video>
+		<marquee>./marquee/Crash Bandicoot 3 - Warped.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Crash Team Racing.PBP</path>
+		<name>크래쉬 팀 레이싱</name>
+		<image>./snap/Crash Team Racing.png</image>
+		<video>./snap/Crash Team Racing.mp4</video>
+		<marquee>./marquee/Crash Team Racing.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Chrono Cross (USA).PBP</path>
+		<name>크로노 크로스</name>
+		<image>./snap/Chrono Cross (USA).png</image>
+		<video>./snap/Chrono Cross (USA).mp4</video>
+		<marquee>./marquee/Chrono Cross (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./King of Fighters '99, The (USA).PBP</path>
+		<name>킹오브파이터즈 99</name>
+		<image>./snap/King of Fighters '99, The (USA).png</image>
+		<video>./snap/King of Fighters '99, The (USA).mp4</video>
+		<marquee>./marquee/King of Fighters '99, The (USA).png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater.PBP</path>
+		<name>토니 호크의 프로 스케이터</name>
+		<image>./snap/Tony Hawk's Pro Skater.png</image>
+		<video>./snap/Tony Hawk's Pro Skater.mp4</video>
+		<marquee>./marquee/Tony Hawk's Pro Skater.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2.PBP</path>
+		<name>토니 호크의 프로 스케이터 2</name>
+		<image>./snap/Tony Hawk's Pro Skater 2.png</image>
+		<video>./snap/Tony Hawk's Pro Skater 2.mp4</video>
+		<marquee>./marquee/Tony Hawk's Pro Skater 2.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3.PBP</path>
+		<name>토니 호크의 프로 스케이터 3</name>
+		<image>./snap/Tony Hawk's Pro Skater 3.png</image>
+		<video>./snap/Tony Hawk's Pro Skater 3.mp4</video>
+		<marquee>./marquee/Tony Hawk's Pro Skater 3.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Final Fantasy IX.PBP</path>
+		<name>파이널 판타지 9</name>
+		<image>./snap/Final Fantasy IX.png</image>
+		<video>./snap/Final Fantasy IX.mp4</video>
+		<marquee>./marquee/Final Fantasy IX.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Final Fantasy Origins.PBP</path>
+		<name>파이널 판타지 오리진</name>
+		<image>./snap/Final Fantasy Origins.png</image>
+		<video>./snap/Final Fantasy Origins.mp4</video>
+		<marquee>./marquee/Final Fantasy Origins.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Final Fantasy Tactics.PBP</path>
+		<name>파이널 판타지 택틱스</name>
+		<image>./snap/Final Fantasy Tactics.png</image>
+		<video>./snap/Final Fantasy Tactics.mp4</video>
+		<marquee>./marquee/Final Fantasy Tactics.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>1</players>
+		<desc />
+	</game>
+	<game>
+		<path>./FIFA Soccer 2005.PBP</path>
+		<name>피파축구 2005</name>
+		<image>./snap/FIFA Soccer 2005.png</image>
+		<video>./snap/FIFA Soccer 2005.mp4</video>
+		<marquee>./marquee/FIFA Soccer 2005.png</marquee>
+		<developer />
+		<publisher />
+		<genre />
+		<releasedate />
+		<players>2</players>
+		<desc />
+	</game>
+	<game>
+		<path>./Ridge Racer Type 4.PBP</path>
+		<name>릿지 레이서 타입4</name>
+		<image>./snap/Ridge Racer Type 4.png</image>
+		<video>./snap/Ridge Racer Type 4.mp4</video>
+		<marquee>./marquee/Ridge Racer Type 4.png</marquee>
+		<releasedate></releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20210124T213013</lastplayed>
+		<gametime>458</gametime>
+	</game>
+	<game>
+		<path>./Final Fantasy VII.PBP</path>
+		<name>파이널 판타지 7</name>
+		<image>./snap/Final Fantasy VII.png</image>
+		<video>./snap/Final Fantasy VII.mp4</video>
+		<marquee>./marquee/Final Fantasy VII.png</marquee>
+		<releasedate></releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20210124T212210</lastplayed>
+		<gametime>359</gametime>
+	</game>
+	<game>
+		<path>./Winning Eleven - World Soccer 2002.PBP</path>
+		<name>위닝일레븐 2002</name>
+		<image>./snap/Winning Eleven - World Soccer 2002.png</image>
+		<video>./snap/Winning Eleven - World Soccer 2002.mp4</video>
+		<marquee>./marquee/Winning Eleven - World Soccer 2002.png</marquee>
+		<releasedate></releasedate>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210124T213517</lastplayed>
+		<gametime>273</gametime>
+	</game>
+</gameList>
