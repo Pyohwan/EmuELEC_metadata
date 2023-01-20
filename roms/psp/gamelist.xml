@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game>
+		<path>./3 2 1 supercrash! (USA).cso</path>
+		<name>3 2 1 슈퍼 크래쉬!</name>
+		<image>./snap/3 2 1 supercrash! (USA).png</image>
+		<video>./snap/3 2 1 supercrash! (USA).mp4</video>
+		<marquee>./marquee/3 2 1 supercrash! (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Ninjamurai (USA).cso</path>
+		<name>닌자무라이</name>
+		<image>./snap/Ninjamurai (USA).png</image>
+		<video>./snap/Ninjamurai (USA).mp4</video>
+		<marquee>./marquee/Ninjamurai (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Metal Slug XX USA.cso</path>
+		<name>메탈슬러그 XX</name>
+		<image>./snap/Metal Slug XX USA.png</image>
+		<video>./snap/Metal Slug XX USA.mp4</video>
+		<marquee>./marquee/Metal Slug XX USA.png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 3 Max USA.cso</path>
+		<name>스트리트 파이터 알파 3 맥스</name>
+		<image>./snap/Street Fighter Alpha 3 Max USA.png</image>
+		<video>./snap/Street Fighter Alpha 3 Max USA.mp4</video>
+		<marquee>./marquee/Street Fighter Alpha 3 Max USA.png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Hero of Sparta (USA).cso</path>
+		<name>스파르타의 영웅</name>
+		<image>./snap/Hero of Sparta (USA).png</image>
+		<video>./snap/Hero of Sparta (USA).mp4</video>
+		<marquee>./marquee/Hero of Sparta (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./I Must Run! (USA).cso</path>
+		<name>아이 머스트 런!</name>
+		<image>./snap/I Must Run! (USA).png</image>
+		<video>./snap/I Must Run! (USA).mp4</video>
+		<marquee>./marquee/I Must Run! (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Archibald's Adventures (USA).cso</path>
+		<name>아치발드 어드벤쳐</name>
+		<image>./snap/Archibald's Adventures (USA).png</image>
+		<video>./snap/Archibald's Adventures (USA).mp4</video>
+		<marquee>./marquee/Archibald's Adventures (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Angry Birds (USA).cso</path>
+		<name>앵그리버드</name>
+		<image>./snap/Angry Birds (USA).png</image>
+		<video>./snap/Angry Birds (USA).mp4</video>
+		<marquee>./marquee/Angry Birds (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Alien Zombie Death (USA).cso</path>
+		<name>에일리언 좀비 데스</name>
+		<image>./snap/Alien Zombie Death (USA).png</image>
+		<video>./snap/Alien Zombie Death (USA).mp4</video>
+		<marquee>./marquee/Alien Zombie Death (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Jetpack Joyride (USA).cso</path>
+		<name>제트팩 조이라이드</name>
+		<image>./snap/Jetpack Joyride (USA).png</image>
+		<video>./snap/Jetpack Joyride (USA).mp4</video>
+		<marquee>./marquee/Jetpack Joyride (USA).png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+	<game>
+		<path>./Castlevania Dracula X Chronicles USA.cso</path>
+		<name>캐슬바니아: 더 드라큘라 X 크로니클즈</name>
+		<image>./snap/Castlevania Dracula X Chronicles USA.png</image>
+		<video>./snap/Castlevania Dracula X Chronicles USA.mp4</video>
+		<marquee>./marquee/Castlevania Dracula X Chronicles USA.png</marquee>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<releasedate></releasedate>
+		<players>1</players>
+		<desc></desc>
+	</game>
+</gameList>
