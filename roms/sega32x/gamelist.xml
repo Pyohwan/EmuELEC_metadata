@@ -225,8 +225,7 @@
 		<path>./Blackthorne (USA).zip</path>
 		<name>블랙쓰론</name>
 		<image>./snap/Blackthorne (USA).png</image>
-		<video>./snap/Blackthorne (USA).mp4</video>
-		<marquee>./marquee/Blackthorne (USA).png</marquee>
+		<video>./32x_usa/snap/Blackthorne.mp4</video>
 		<developer>블리자드 엔터테인먼트</developer>
 		<publisher>블리자드 엔터테인먼트</publisher>
 		<genre>플랫폼</genre>
