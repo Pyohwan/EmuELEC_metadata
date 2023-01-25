@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* 원본 자료 출처 
+  https://dsno.tistory.com/7489
+  2020.3.13 [신 메뉴] 새턴 게임 모음
+
+* 위키페디아(https://en.wikipedia.org/wiki/List_of_Sega_Saturn_games)의 Games 카테고리 참조
+* 라이센스 : MIT
+* 작성자 : 브리티쉬 (british2@naver.com)
+-->
+<gameList>
+	<!--
+		새턴 (일본판)
+	-->
+	<folder>
+		<path>./ss_jap</path>
+		<name>새턴 (일본판)</name>
+		<image>./boxart/saturn.png</image>
+	</folder>
+	<game>
+		<path>./ss_jap/Game_Tengoku_JAP.chd</path>
+		<name>게임천국</name>
+		<image>./ss_jap/boxart/Game_Tengoku.png</image>
+		<video>./ss_jap/snap/Game_Tengoku.mp4</video>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19970606</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Gokujou_Parodius_Da_Deluxe_Pack_JAP.chd</path>
+		<name>극상 파로디우스 다! 디럭스 팩</name>
+		<image>./ss_jap/boxart/Gokujou_Parodius_Da_Deluxe_Pack.png</image>
+		<video>./ss_jap/snap/Gokujou_Parodius_Da_Deluxe_Pack.mp4</video>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19950519</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Guardian_Heroes_JAP.chd</path>
+		<name>가디언 히어로즈</name>
+		<image>./ss_jap/boxart/Guardian_Heroes.png</image>
+		<video>./ss_jap/snap/Guardian_Heroes.mp4</video>
+		<developer>Treasure</developer>
+		<publisher>Sega</publisher>
+		<genre>액션 롤플레잉</genre>
+		<releasedate>19960129</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Mahou_Kishi_Rayearth_JAP.chd</path>
+		<name>마법기사 레이어스</name>
+		<image>./ss_jap/boxart/Mahou_Kishi_Rayearth.png</image>
+		<video>./ss_jap/snap/Mahou_Kishi_Rayearth.mp4</video>
+		<developer>Sega</developer>
+		<publisher>Working Designs</publisher>
+		<genre>액션 롤플레잉</genre>
+		<releasedate>19950825</releasedate>
+	</game>
+	<game>
+		<path>./ss_jap/Thunder_Force_V_JAP.chd</path>
+		<name>썬더 포스 V</name>
+		<image>./ss_jap/boxart/Thunder_Force_V.png</image>
+		<video>./ss_jap/snap/Thunder_Force_V.mp4</video>
+		<developer>Technosoft</developer>
+		<publisher>Technosoft</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<releasedate>19970711</releasedate>
+	</game>
+	<!--
+		새턴 (한국판)
+	-->
+	<folder>
+		<path>./ss_kor</path>
+		<name>새턴 (한국판)</name>
+		<image>./boxart/saturn.png</image>
+	</folder>
+	<game>
+		<path>./ss_kor/Albert_Odysset_Gaiden-Legend_of_Eldean_KOR.chd</path>
+		<name>알버트 오딧세이 외전 - 레전드 오브 엘딘</name>
+		<image>./ss_kor/boxart/Albert_Odysset_Gaiden-Legend_of_Eldean.png</image>
+		<video>./ss_kor/snap/Albert_Odysset_Gaiden-Legend_of_Eldean.mp4</video>
+		<developer>Sunsoft</developer>
+		<publisher>Working Designs</publisher>
+		<genre>롤플레잉</genre>
+		<releasedate>19970724</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/Myst_KOR.chd</path>
+		<name>미스트</name>
+		<image>./ss_kor/boxart/Myst.png</image>
+		<video>./ss_kor/snap/Myst.mp4</video>
+		<developer>Sunsoft</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>어드벤처</genre>
+		<releasedate>19950901</releasedate>
+	</game>
+        <game>
+                <path>./ss_kor/NiGHTS_Into_Dreams_KOR.chd</path>
+                <name>나이츠 인투 드림스</name>
+                <image>./ss_kor/boxart/NiGHTS_Into_Dreams.png</image>
+                <video>./ss_kor/snap/NiGHTS_Into_Dreams.mp4</video>
+                <releasedate>19960823</releasedate>
+                <developer>Sonic Team</developer>
+                <publisher>Sega</publisher>
+                <genre>액션</genre>
+                <lang>en</lang>
+        </game>
+	<game>
+		<path>./ss_kor/Sangokushi_IV_KOR.chd</path>
+		<name>삼국지 IV</name>
+		<image>./ss_kor/boxart/Sangokushi_IV.png</image>
+		<video>./ss_kor/snap/Sangokushi_IV.mp4</video>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>전략 시뮬레이션</genre>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
+		<path>./ss_kor/Shinpi_no_Sekai_El-Hazard_KOR.chd</path>
+		<name>신비의 세계 - 엘하자드</name>
+		<image>./ss_kor/boxart/Shinpi_no_Sekai_El-Hazard.png</image>
+		<video>./ss_kor/snap/Shinpi_no_Sekai_El-Hazard.mp4</video>
+		<developer>Tamtam</developer>
+		<publisher>Pioneer LDC</publisher>
+		<genre></genre>
+		<releasedate>19960809</releasedate>
+	</game>
+	<!--
+		새턴 (북미판)
+	-->
+	<folder>
+		<path>./ss_usa</path>
+		<name>새턴 (북미판)</name>
+		<image>./boxart/saturn.png</image>
+	</folder>
+	<game>
+		<path>./ss_usa/Contra-Legacy_of_War_USA.chd</path>
+		<name>콘트라 - 레거시 오브 워</name>
+		<image>./ss_usa/boxart/Contra-Legacy_of_War.png</image>
+		<video>./ss_usa/snap/Contra-Legacy_of_War_USA.mp4</video>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>Konami</publisher>
+		<genre>플랫폼 / 사격</genre>
+		<releasedate>19970521</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Galactic_Attack_USA.chd</path>
+		<name>갤럭틱 어택</name>
+		<image>./ss_usa/boxart/Galactic_Attack.png</image>
+		<video>./ss_usa/snap/Galactic_Attack.mp4</video>
+		<developer>Taito/developer>
+		<publisher>Acclaim</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<releasedate>19951201</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Golden_Axe-The_Duel_USA.chd</path>
+		<name>골든 액스 - 더 듀얼</name>
+		<image>./ss_usa/boxart/Golden_Axe-The_Duel.png</image>
+		<video>./ss_usa/snap/Golden_Axe-The_Duel.mp4</video>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>격투 / 아케이드</genre>
+		<releasedate>19960627</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Street_Fighter_Alpha_2_USA.chd</path>
+		<name>스트리트 파이터 알파 2</name>
+		<image>./ss_usa/boxart/Street_Fighter_Alpha_2.png</image>
+		<video>./ss_usa/snap/Street_Fighter_Alpha_2.mp4</video>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>격투 / 대전</genre>
+		<releasedate>19961101</releasedate>
+	</game>
+	<game>
+		<path>./ss_usa/Ultimate_Mortal_Kombat_3_USA.chd</path>
+		<name>얼티밋 모탈 컴뱃 3</name>
+		<image>./ss_usa/boxart/Ultimate_Mortal_Kombat_3.png</image>
+		<video>./ss_usa/snap/Ultimate_Mortal_Kombat_3.mp4</video>
+		<developer>Eurocom</developer>
+		<publisher>Williams</publisher>
+		<genre>격투 / 대전</genre>
+		<releasedate>19960627</releasedate>
+	</game>
+        <game id="13309">
+                <path>./Magical Night Dreams - Cotton Boomerang (Japan).chd</path>
+                <name>Magical Night Dreams : Cotton Boomerang</name>
+                <desc>It's a horizontal shoot-'em-up released for the Sega Saturn and Sega Titan Video arcade hardware as a remixed version of Cotton 2, featuring more characters, recolored tiles, altered stage layouts, etc.</desc>
+                <image>./images/Magical Night Dreams - Cotton Boomerang (Japan)-image.png</image>
+                <video>./videos/Magical Night Dreams - Cotton Boomerang (Japan)-video.mp4</video>
+                <marquee>./images/Magical Night Dreams - Cotton Boomerang (Japan)-marquee.png</marquee>
+                <thumbnail>./images/Magical Night Dreams - Cotton Boomerang (Japan)-thumb.png</thumbnail>
+                <boxback>./images/Magical Night Dreams - Cotton Boomerang (Japan)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19981008T000000</releasedate>
+                <developer>Success</developer>
+                <publisher>Success</publisher>
+                <genre>Shoot'em up / Horizontal</genre>
+                <players>1</players>
+                <md5>bdee6b1ad625cbaec25712bbc7e6c7e1</md5>
+                <lang>jp</lang>
+                <region>jp</region>
+                <scrap name="ScreenScraper" date="20230125T172906" />
+        </game>
+        <game id="13089">
+                <path>./Rayman (USA) (R2).chd</path>
+                <name>Rayman</name>
+                <desc>When a villain known only as Mr. Dark appears, trouble brews in Rayman's world.  Mr. Dark captures the Toons - source of light and Rayman's friends.  With no more light, evil creatures begin to roam, making the world unsafe for everyone.  Its up to you, as Rayman, to free your friends and put an end to Mr. Dark's dastardly schemes!
+
+Rayman is side-scrolling platformer starring the titular Rayman, a big-nosed chap with no arms or legs.  Rayman can jump and use his hair to hover for a short period of time.  He can also attack by throwing his fists, or winding up his fists for a more powerful punch.  He can occasionally find special power ups that grant him unlimited flying power, giving him the ability to navigate through tricky mazes.
+
+Aside from the platforming action, the other notable feature of Rayman is its large, detailed and vibrant graphics, which have helped it to stand out from most other similar games in the genre.</desc>
+                <image>./images/Rayman (USA) (R2)-image.png</image>
+                <video>./videos/Rayman (USA) (R2)-video.mp4</video>
+                <marquee>./images/Rayman (USA) (R2)-marquee.png</marquee>
+                <thumbnail>./images/Rayman (USA) (R2)-thumb.png</thumbnail>
+                <fanart>./images/Rayman (USA) (R2)-fanart.jpg</fanart>
+                <bezel>./images/Rayman (USA) (R2)-bezel.png</bezel>
+                <boxback>./images/Rayman (USA) (R2)-boxback.png</boxback>
+                <rating>0.95</rating>
+                <releasedate>19951030T000000</releasedate>
+                <developer>Ubisoft</developer>
+                <publisher>Ubisoft</publisher>
+                <genre>Action</genre>
+                <family>Rayman</family>
+                <players>1</players>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230125T172931" />
+        </game>
+        <game id="13396">
+                <path>./Bubble Symphony (Japan).chd</path>
+                <name>Bubble Symphony</name>
+                <desc>In Bubble Symphony, you play one of four dragons - Bubblun, Bobblun, Kululun, and Cororon. Each dragon has its advantages and disadvantages. You have the task of trapping your enemies in bubbles, then bumping into them to make them turn into food, which you can get for points. There are multiple paths that you can take, and bosses that you have to defeat in order to proceed to the next set of levels. Multiple endings are viewed depending on skill and secrets found. Features an excellent soundtrack and guest appearances from various Taito games.</desc>
+                <image>./images/Bubble Symphony (Japan)-image.png</image>
+                <video>./videos/Bubble Symphony (Japan)-video.mp4</video>
+                <marquee>./images/Bubble Symphony (Japan)-marquee.png</marquee>
+                <thumbnail>./images/Bubble Symphony (Japan)-thumb.png</thumbnail>
+                <boxback>./images/Bubble Symphony (Japan)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19970101T000000</releasedate>
+                <developer>Ving</developer>
+                <publisher>Taito</publisher>
+                <genre>Action</genre>
+                <players>2</players>
+                <lang>jp</lang>
+                <region>jp</region>
+                <scrap name="ScreenScraper" date="20230125T172814" />
+        </game>
+        <game id="13387">
+                <path>./Strikers 1945 II (Japan).chd</path>
+                <name>Strikers 1945 II</name>
+                <desc>Strikers 1945 II is a vertically-scrolling shoot ?em up developed and originally published by Psikyo in 1997 for the arcades as a follow-up to Strikers 1945. It was released among other systems for the Saturn, Continuing where the last game ended, the forces of C.A.N.Y. have been demolished by the Strikers. However, a faction known as the F.G.R. now has the C.A.N.Y. technology and plans to initiate global warfare with massive mecha technology. Once again, the Strikers are called into action to save the world.</desc>
+                <image>./images/Strikers 1945 II (Japan)-image.png</image>
+                <video>./videos/Strikers 1945 II (Japan)-video.mp4</video>
+                <marquee>./images/Strikers 1945 II (Japan)-marquee.png</marquee>
+                <thumbnail>./images/Strikers 1945 II (Japan)-thumb.png</thumbnail>
+                <boxback>./images/Strikers 1945 II (Japan)-boxback.png</boxback>
+                <rating>0.85</rating>
+                <releasedate>19981022T000000</releasedate>
+                <developer>Psikyo</developer>
+                <publisher>Psikyo</publisher>
+                <genre>Shoot'em Up</genre>
+                <family>Strikers 1945</family>
+                <players>2</players>
+                <md5>226f1f7f0b2f2848a05414af84bf6521</md5>
+                <lang>jp</lang>
+                <region>jp</region>
+                <scrap name="ScreenScraper" date="20230125T173313" />
+        </game>
+        <game id="13410">
+                <path>./Strikers 1945 (Japan).chd</path>
+                <name>Strikers 1945</name>
+                <desc>Strikers 1945 is a 2D side-scrolling shooter with a WWII theme.  Use basic weaponry and many power-ups for real and not-so-real aircraft from the age.  To keep in sync with the arcade version, the game is viewed in a letterbox format. The US version of the game is a port of the arcade game Strikers 1945 II. The Japanese PlayStation version of the game is entirely different, as it includes the port of Strikers 1945 but was also released with the PSX title Strikers 1945.</desc>
+                <image>./images/Strikers 1945 (Japan)-image.png</image>
+                <video>./videos/Strikers 1945 (Japan)-video.mp4</video>
+                <marquee>./images/Strikers 1945 (Japan)-marquee.png</marquee>
+                <thumbnail>./images/Strikers 1945 (Japan)-thumb.png</thumbnail>
+                <bezel>./images/Strikers 1945 (Japan)-bezel.png</bezel>
+                <boxback>./images/Strikers 1945 (Japan)-boxback.png</boxback>
+                <rating>0.5</rating>
+                <releasedate>19960628T000000</releasedate>
+                <developer>Psikyo</developer>
+                <publisher>Atlus</publisher>
+                <genre>Action</genre>
+                <family>Strikers 1945</family>
+                <players>2</players>
+                <md5>db7f7fc629b9eb90926357fe37a58015</md5>
+                <lang>jp</lang>
+                <region>jp</region>
+                <scrap name="ScreenScraper" date="20230125T173241" />
+        </game>
+        <game id="13159">
+                <path>./Saturn Bomberman (Europe).chd</path>
+                <name>Saturn Bomberman</name>
+                <desc>An all out party game, this Saturn exclusive title has you controlling the little blue bomber along with up to 10 other bomber pals planting bombs to trap enemy characters.
+
+Although there is no story mode, you can take on a host of other characters in one on one battles to see who is the master of the bomb. 10 players can then play on the one screen at a time, either against each other or in teams.
+
+Saturn Bomberman can also connect to the Sega Saturn NetLink internet system, allowing two people from opposite ends of the earth to battle it out.</desc>
+                <image>./images/Saturn Bomberman (Europe)-image.png</image>
+                <video>./videos/Saturn Bomberman (Europe)-video.mp4</video>
+                <marquee>./images/Saturn Bomberman (Europe)-marquee.png</marquee>
+                <thumbnail>./images/Saturn Bomberman (Europe)-thumb.png</thumbnail>
+                <fanart>./images/Saturn Bomberman (Europe)-fanart.jpg</fanart>
+                <bezel>./images/Saturn Bomberman (Europe)-bezel.png</bezel>
+                <boxback>./images/Saturn Bomberman (Europe)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19970501T000000</releasedate>
+                <developer>Hudson</developer>
+                <publisher>Hudson</publisher>
+                <genre>Action / Labyrinth</genre>
+                <family>Bomberman</family>
+                <players>8+</players>
+                <lang>en</lang>
+                <region>eu</region>
+                <scrap name="ScreenScraper" date="20230125T173215" />
+        </game>
+        <game id="13325">
+                <path>./In the Hunt (USA).chd</path>
+                <name>In the Hunt</name>
+                <desc>A 2D side scrolling shooter in which you take control of a small attack submarine and engage in underwater combat. The Dark Anarchy Society's forces threaten to destroy the earth's most important cities  and only you can get past their defenses and destroy their secret underwater lair.
+
+In the Hunt follows the classic template for 2D shooters, with the added feature of being able to control scrolling speed. Includes seven levels of underwater action (and keep an eye out for threats from above the surface), upgradeable weapons, and two player cooperative gameplay.</desc>
+                <image>./images/In the Hunt (USA)-image.png</image>
+                <video>./videos/In the Hunt (USA)-video.mp4</video>
+                <marquee>./images/In the Hunt (USA)-marquee.png</marquee>
+                <thumbnail>./images/In the Hunt (USA)-thumb.png</thumbnail>
+                <bezel>./images/In the Hunt (USA)-bezel.png</bezel>
+                <boxback>./images/In the Hunt (USA)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19960101T000000</releasedate>
+                <developer>Sims</developer>
+                <publisher>Kokopeli Digital Studios</publisher>
+                <genre>Action</genre>
+                <players>2</players>
+                <lang>en</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230125T172843" />
+        </game>
+</gameList>
