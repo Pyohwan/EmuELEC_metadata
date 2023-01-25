@@ -95,17 +95,17 @@
 		<genre>어드벤처</genre>
 		<releasedate>19950901</releasedate>
 	</game>
-        <game>
-                <path>./ss_kor/NiGHTS_Into_Dreams_KOR.chd</path>
-                <name>나이츠 인투 드림스</name>
-                <image>./ss_kor/boxart/NiGHTS_Into_Dreams.png</image>
-                <video>./ss_kor/snap/NiGHTS_Into_Dreams.mp4</video>
-                <releasedate>19960823</releasedate>
-                <developer>Sonic Team</developer>
-                <publisher>Sega</publisher>
-                <genre>액션</genre>
-                <lang>en</lang>
-        </game>
+    <game>
+        <path>./ss_kor/NiGHTS_Into_Dreams_KOR.chd</path>
+        <name>나이츠 인투 드림스</name>
+        <image>./ss_kor/boxart/NiGHTS_Into_Dreams.png</image>
+        <video>./ss_kor/snap/NiGHTS_Into_Dreams.mp4</video>
+        <releasedate>19960823</releasedate>
+        <developer>Sonic Team</developer>
+        <publisher>Sega</publisher>
+        <genre>액션</genre>
+        <lang>en</lang>
+    </game>
 	<game>
 		<path>./ss_kor/Sangokushi_IV_KOR.chd</path>
 		<name>삼국지 IV</name>
@@ -149,7 +149,7 @@
 		<name>갤럭틱 어택</name>
 		<image>./ss_usa/boxart/Galactic_Attack.png</image>
 		<video>./ss_usa/snap/Galactic_Attack.mp4</video>
-		<developer>Taito/developer>
+		<developer>Taito</developer>
 		<publisher>Acclaim</publisher>
 		<genre>슈팅 / 수직 비행</genre>
 		<releasedate>19951201</releasedate>
