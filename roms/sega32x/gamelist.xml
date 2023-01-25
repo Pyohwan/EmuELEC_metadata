@@ -222,8 +222,8 @@
 		<desc></desc>
 	</game>
 	<game>
-		<path>./Blackthorne (USA).zip</path>
-		<name>블랙쓰론</name>
+                <path>./32x_usa/Blackthorne (USA).zip</path>
+                <name>블랙쏜</name>
 		<image>./snap/Blackthorne (USA).png</image>
 		<video>./32x_usa/snap/Blackthorne.mp4</video>
 		<developer>블리자드 엔터테인먼트</developer>
@@ -376,31 +376,52 @@
 		<players>2</players>
 		<desc></desc>
 	</game>
-	<game>
-		<path>./Chaotix (Japan, USA).zip</path>
+	<game id="12670">
+		<path>./Chaotix ~ Knuckles' Chaotix (Japan, USA).zip</path>
 		<name>카오틱스 - 너클스 카오틱스 (일본,미국판)</name>
 		<image>./snap/Chaotix (Japan, USA).png</image>
-		<video>./snap/Chaotix (Japan, USA).mp4</video>
-		<marquee>./marquee/Chaotix (Japan, USA).png</marquee>
-		<developer>소닉팀</developer>
-		<publisher>소닉팀</publisher>
-		<genre>플랫폼</genre>
-		<releasedate>1995</releasedate>
-		<players>2</players>
-		<desc></desc>
+
+                <video>./videos/Chaotix ~ Knuckles' Chaotix (Japan, USA)-video.mp4</video>
+                <marquee>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-marquee.png</marquee>
+                <thumbnail>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-thumb.png</thumbnail>
+                <fanart>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-fanart.jpg</fanart>
+                <bezel>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-bezel.png</bezel>
+                <boxback>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA)-boxback.png</boxback>
+                <rating>0.75</rating>
+                <releasedate>19950320T000000</releasedate>
+                <developer>Sonic Team</developer>
+                <publisher>SEGA</publisher>
+                <genre>Platform</genre>
+                <family>Sonic</family>
+                <players>2</players>
+                <playcount>1</playcount>
+                <lastplayed>20230125T131619</lastplayed>
+                <md5>47b1095e68b053125cd2cd5b1ac4eb50</md5>
+                <gametime>17</gametime>
+                <lang>en,jp</lang>
+                <region>us</region>
+                <scrap name="ScreenScraper" date="20230125T131554" />
 	</game>
-	<game>
+	<game id="12678">
 		<path>./Kolibri (USA, Europe).zip</path>
 		<name>코리브리 (미국,유럽판)</name>
 		<image>./snap/Kolibri (USA, Europe).png</image>
-		<video>./snap/Kolibri (USA, Europe).mp4</video>
-		<marquee>./marquee/Kolibri (USA, Europe).png</marquee>
-		<developer>노보트레이드</developer>
-		<publisher>노보트레이드</publisher>
-		<genre>슈팅</genre>
-		<releasedate>1995</releasedate>
-		<players>2</players>
-		<desc></desc>
+                <video>./videos/Kolibri (USA, Europe)-video.mp4</video>
+                <marquee>./images/Kolibri (USA, Europe)-marquee.png</marquee>
+                <thumbnail>./images/Kolibri (USA, Europe)-thumb.png</thumbnail>
+                <fanart>./images/Kolibri (USA, Europe)-fanart.jpg</fanart>
+                <bezel>./images/Kolibri (USA, Europe)-bezel.png</bezel>
+                <boxback>./images/Kolibri (USA, Europe)-boxback.png</boxback>
+                <rating>0.8</rating>
+                <releasedate>19951117T000000</releasedate>
+                <developer>Novotrade</developer>
+                <publisher>SEGA</publisher>
+                <genre>Shoot'em up / Horizontal</genre>
+                <players>2</players>
+                <md5>6af6207b1e67072a9104178130c61712</md5>
+                <lang>en</lang>
+                <region>eu</region>
+                <scrap name="ScreenScraper" date="20230125T132156" />
 	</game>
 	<game>
 		<path>./Toughman Contest (USA, Europe).zip</path>
